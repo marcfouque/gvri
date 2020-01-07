@@ -1,0 +1,14 @@
+PREFIX gvri: <https://inf203.isped.fr/gvri#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+ 
+CONSTRUCT {
+	?URI a gvri:AdicapOrgane;
+	rdfs:label ?strfr;
+  }
+FROM <file:../../corpus/adicap_organe.txt>
+WHERE {
+	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#adicapOrgane_", REPLACE(?ORGANE," ",""))) AS ?URI)
+	BIND (STRLANG(?LIBLESION,"fr") AS ?strfr)
+  }

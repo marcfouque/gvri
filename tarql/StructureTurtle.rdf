@@ -1,0 +1,71 @@
+@base <https://inf203.isped.fr/gvri> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+
+<#Patient> rdf:type rdfs:Class .
+<#Cancer> rdf:type rdfs:Class .
+<#TopoCimo3> rdf:type rdfs:Class .
+<#MorphoCimo3> rdf:type rdfs:Class .
+<#TopoIacr> rdf:type rdfs:Class .
+<#TopoGrpIacr> rdf:type rdfs:Class .
+<#MorphoGrpIacr> rdf:type rdfs:Class .
+<#AdicapLesion> rdf:type rdfs:Class .
+<#AdicapOrgane> rdf:type rdfs:Class .
+<#AdicapTopo> rdf:type rdfs:Class .
+<#Cim10> rdf:type rdfs:Class .
+<#Sejour> rdf:type rdfs:Class .
+<#Sexe> 
+	rdf:type rdfs:Class;
+	rdfs:Datatype xsd:string.
+<#DateNaissance> 
+	rdf:type rdfs:Class;
+	rdfs:Datatype xsd:string.
+<#Prenom> 
+	rdf:type rdfs:Class;
+	rdfs:Datatype xsd:string.
+<#Nom> 
+	rdf:type rdfs:Class;
+	rdfs:Datatype xsd:string.
+	
+<#aPourTopoCimo3> 
+	rdf:type rdf:Property;
+	rdfs:domain <#Cancer>;
+	rdfs:range <#TopoCimo3> . 
+<#aPourMorphoCimo3> 
+	rdf:type rdf:Property;
+	rdfs:domain <#Cancer>;
+	rdfs:range <#MorphoCimo3> .
+<#aPourTopoIacr> 
+	rdf:type rdf:Property;
+	rdfs:domain <#Cancer>;
+	rdfs:range <#TopoIacr> .  	
+<#aPourGrpTopoIacr> 
+	rdf:type rdf:Property;
+	rdfs:domain <#TopoIacr>;
+	rdfs:range <#TopoGrpIacr> .  	
+<#aPourGrpMorphoIacr> 
+	rdf:type rdf:Property;
+	rdfs:domain <#Cancer>;
+	rdfs:range <#MorphoGrpIacr> .  
+<#aDeDiagnostique> 
+	rdf:type rdf:Property;
+	rdfs:domain <#Patient>;
+	rdfs:range <#Cancer> .  
+<#equivalentAdicap>
+	rdf:type rdf:Property;
+	rdfs:domain <#TopoCimo3>,<#MorphoCimo3> ;
+	rdfs:range <#AdicapLesion>,<#AdicapOrgane>,<#AdicapTopo> .
+<#aPourDP>
+	rdf:type rdf:Property;
+	rdfs:domain <#Sejour>;
+	rdfs:range <#Cim10> .
+<#aPourDR>
+	rdf:type rdf:Property;
+	rdfs:domain <#Sejour>;
+	rdfs:range <#Cim10> .
+<#aPourSejour>
+	rdf:type rdf:Property;
+	rdfs:domain <#Patient>;
+	rdfs:range <#Sejour> . 

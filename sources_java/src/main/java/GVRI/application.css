@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.background {
+    -fx-background-color: #1d1d1d;
+}
+.label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+.pane{
+	-fx-width:100%;
+	-fx-height: 100%;
+	-fx-border: black solid 3px;
+}
+
+.AnchorPane{
+
+}
+.listView{
+	-fx-padding:3px 3px;
+	-fx-margin:3px 3px;
+}
+
+#encre_principale{
+	-fx-width:100%;
+	-fx-height: 100%;
+	-fx-border: red solid 8px;
+
+}
+#panneau_recherche{
+	    /*-fx-background-color: red;*/
+		margin: auto auto;
+}

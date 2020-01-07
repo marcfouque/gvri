@@ -1,0 +1,16 @@
+PREFIX gvri: <https://inf203.isped.fr/gvri#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+ 
+CONSTRUCT {
+	?URI a gvri:Sejour;
+	gvri:aPourDP ?p;
+	gvri:aPourDR ?r
+  }
+FROM <file:../../corpus/Sejour.txt>
+WHERE {
+	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#sejour_", REPLACE(?NumSejour," ",""))) AS ?URI)
+	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#cim10_", REPLACE(?DP," ",""))) AS ?p)
+	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#cim10_", REPLACE(?DR," ",""))) AS ?r)
+  }

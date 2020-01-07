@@ -1,0 +1,73 @@
+######## Example of a TDB dataset and text index#########################
+# The main doc sources are:
+#  - https://jena.apache.org/documentation/fuseki2/fuseki-configuration.html
+#  - https://jena.apache.org/documentation/assembler/assembler-howto.html
+#  - https://jena.apache.org/documentation/assembler/assembler.ttl
+# See https://jena.apache.org/documentation/fuseki2/fuseki-layout.html for the destination of this file.
+#########################################################################
+
+@prefix :        <https://inf203.isped.fr#> .
+@prefix gvri:    <https://inf203.isped.fr/gvri#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdb:     <http://jena.hpl.hp.com/2008/tdb#> .
+@prefix text:    <http://jena.apache.org/text#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#>
+@prefix fuseki:  <http://jena.apache.org/fuseki#> .
+@prefix ja:      <http://jena.hpl.hp.com/2005/11/Assembler#> .
+
+
+[] rdf:type fuseki:Server ;
+   fuseki:services (
+     :myservice
+   ) .
+
+:myservice rdf:type fuseki:Service ;
+    fuseki:name                       "myds" ;     # e.g : `s-query --service=http://localhost:3030/myds "select * ..."`
+    fuseki:serviceQuery               "query" ;    # SPARQL query service
+    fuseki:serviceUpdate              "update" ;   # SPARQL update service
+    fuseki:serviceUpload              "upload" ;   # Non-SPARQL upload service
+    fuseki:serviceReadWriteGraphStore "data" ;     # SPARQL Graph store protocol (read and write)
+    fuseki:dataset                    :text_dataset ;
+    .
+
+## ---------------------------------------------------------------
+
+# A TextDataset is a regular dataset with a text index.
+:text_dataset rdf:type     text:TextDataset ;
+    text:dataset   <#dataset> ; # <-- replace `:my_dataset` with the desired URI
+    text:index     <#indexLucene> .
+
+# A TDB dataset used for RDF storage
+<#dataset> rdf:type      tdb:DatasetTDB ; # <-- replace `:my_dataset` with the desired URI - as above
+    tdb:location "D:/marco/Jena/fuseki/apache-jena-fuseki-3.13.1/run/databases/gvri" ;
+    tdb:unionDefaultGraph true . # Optional .
+
+#gvri:graph rdf:type tdb:GraphTDB ;
+#    tdb:dataset <#dataset> ;
+#    tdb:graphName gvri: ;
+#    ja:content [ja:externalContent <file:///E:/javaNew/projetRI/src/main/resources/base/gvri.ttl>;] .
+
+# Text index description
+<#indexLucene> a text:TextIndexLucene ;
+    text:directory <file:///E:/assembleurIndexeur> ;  # <-- replace `<file:path>` with your path (e.g., `<file:/.../fuseki/run/databases/MY_INDEX>`)
+    text:entityMap <#entMap> ;
+    text:storeValues true ; 
+    text:analyzer [ a text:StandardAnalyzer ] ;
+    #text:queryAnalyzer [ a text:KeywordAnalyzer ] ;
+    #text:queryParser text:AnalyzingQueryParser ;
+    #text:propLists ( [ . . . ] . . . ) ;
+    #text:defineAnalyzers ( [ . . . ] . . . ) ;
+    text:multilingualSupport true ; # optional
+.
+# Entity map (see documentation for other options)
+<#entMap> a text:EntityMap ;
+    text:defaultField     "label" ;
+    text:entityField      "uri" ;
+    text:uidField         "uid" ;
+    text:langField        "lang" ;
+    text:graphField       "graph" ;
+    text:map (
+        [ text:field "label" ; 
+          text:predicate rdfs:label  ]
+    ) .

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane prefHeight="600.0" prefWidth="1000.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GVRI.GVRI">
+   <children>
+      <AnchorPane fx:id="encre_principale" minHeight="0.0" minWidth="0.0" prefHeight="79.0" prefWidth="1000.0">
+         <children>
+            <Pane fx:id="panneau_recherche" prefHeight="79.0" prefWidth="624.0">
+               <children>
+                  <Label layoutX="37.0" layoutY="31.0" text="GVRI" />
+                  <TextField fx:id="requete" layoutX="92.0" layoutY="27.0" prefHeight="26.0" prefWidth="345.0" promptText="Entrez votre recherche" />
+                  <Button fx:id="recherche" layoutX="472.0" layoutY="24.0" mnemonicParsing="false" onAction="#rechercher" prefHeight="32.0" prefWidth="102.0" text="Rechercher" />
+                  <Label fx:id="nb_res" layoutX="19.0" layoutY="57.0" prefHeight="17.0" prefWidth="555.0" />
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="4.0" layoutY="78.0" minHeight="0.0" minWidth="0.0" prefHeight="522.0" prefWidth="1000.0">
+         <children>
+            <ListView fx:id="listeElements" layoutX="11.0" layoutY="3.0" prefHeight="515.0" prefWidth="345.0" />
+            <ListView fx:id="listeRegexMatch" layoutX="646.0" layoutY="3.0" prefHeight="515.0" prefWidth="345.0" />
+            <TextArea fx:id="zoneInfo" layoutX="379.0" layoutY="28.0" prefHeight="471.0" prefWidth="245.0" promptText="selectionnez un éléments des résultats pour afficher ses informations" wrapText="true" />
+         </children>
+      </AnchorPane>
+   </children>
+</Pane>

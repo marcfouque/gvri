@@ -1,0 +1,18 @@
+PREFIX gvri: <https://inf203.isped.fr/gvri#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+ 
+CONSTRUCT {
+	?URI a gvri:Patient;
+	gvri:Sexe ?Sexe;
+	gvri:DateNaissance ?DateNaissance;
+	gvri:Prenom ?Prenom;
+	gvri:Nom ?Nom;
+	gvri:aPourSejour ?sejo
+  }
+FROM <file:../../corpus/PMSI.txt>
+WHERE {
+	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#patient_", REPLACE(?NumPatient," ",""))) AS ?URI)
+	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#sejour_", REPLACE(?NumSejour," ",""))) AS ?sejo)
+  }

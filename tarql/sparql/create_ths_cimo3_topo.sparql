@@ -1,0 +1,16 @@
+PREFIX gvri: <https://inf203.isped.fr/gvri#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+ 
+CONSTRUCT {
+	?URI a gvri:TopoCimo3;
+	gvri:TopoIacr ?topo;
+	rdfs:label ?strfr;
+  }
+FROM <file:../../corpus/CIMO3_TOPO.txt>
+WHERE {
+	BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#topoCimo_", REPLACE(?CODTOPOCIMO3," ",""))) AS ?URI)
+	BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#topoIacr_", REPLACE(?Topo_encr," ",""))) AS ?topo)
+	BIND (STRLANG(?LIBTOPOCIMO3,"fr") AS ?strfr)
+  }

@@ -1,0 +1,1033 @@
+CODMORPHOCIMO3|LIBMORPHOCIMO3|MORPHO_IACR|GROUPE_MORPHO_IACR|REG_5|REG_14|REG_17
+81202|Carcinome à cellules transitionnelles in situ|Squamous and transitional cell carcinomas|1|5||17
+81203|Carcinome à cellules transitionnelles, SAI|Squamous and transitional cell carcinomas|1|5||17
+81210|Papillome schneidérien, SAI (C30.0, C31.-)|Squamous and transitional cell carcinomas|1|5||17
+81211|Papillome transitionnel inversé, SAI|Squamous and transitional cell carcinomas|1|5||17
+81213|Carcinome schneidérien (C30.0, C31.-)|Squamous and transitional cell carcinomas|1|5||17
+81223|Carcinome transitionnel à cellules fusiformes|Squamous and transitional cell carcinomas|1|5||17
+81233|Carcinome basaloïde|Squamous and transitional cell carcinomas|1|5||17
+81243|Tumeur cloacale maligne (C21.2)|Squamous and transitional cell carcinomas|1|5||17
+81301|Tumeur transitionnelle papillaire à faible potentiel malin (C67.-)|Squamous and transitional cell carcinomas|1|5||17
+81302|Carcinome transitionnel papillaire non invasif (C67.-)|Squamous and transitional cell carcinomas|1|5||17
+81303|Carcinome transitionnel papillaire (C67.-)|Squamous and transitional cell carcinomas|1|5||17
+81313|Carcinome transitionnel micro-papillaire (C67.-)|Squamous and transitional cell carcinomas|1|5||17
+81400|Adénome, SAI|Adenocarcinomas|3|5||17
+81401|Adénome atypique|Adenocarcinomas|3|5||17
+81402|Adénocarcinome in situ, SAI|Adenocarcinomas|3|5||17
+81403|Adénocarcinome, SAI|Adenocarcinomas|3|5||17
+81406|Adénocarcinome métastatique, SAI|Adenocarcinomas|3|5||17
+81413|Adénocarcinome squirrheux|Adenocarcinomas|3|5||17
+81423|Linite plastique (C16.-)|Adenocarcinomas|3|5||17
+81433|Adénocarcinome à extension superficielle|Adenocarcinomas|3|5||17
+81443|Adénocarcinome de type intestinal (C16.-)|Adenocarcinomas|3|5||17
+81453|Carcinome de type diffus (C16.-)|Adenocarcinomas|3|5||17
+81460|Adénome monomorphe|Adenocarcinomas|3|5||17
+81470|Adénome basocellulaire|Adenocarcinomas|3|5||17
+81473|Adénocarcinome basocellulaire|Adenocarcinomas|3|5||17
+81482|Néoplasie  glandulaire intraépithéliale, grade III|Adenocarcinomas|3|5||17
+81490|Adénome canaliculaire|Adenocarcinomas|3|5||17
+81500|Adénome insulaire, SAI (C25.-)|Other specific carcinomas|4|5||17
+81501|Tumeur à cellules insulaires, SAI (C25.-)|Other specific carcinomas|4|5||17
+81503|Carcinome insulaire du pancréas (C25.-)|Other specific carcinomas|4|5||17
+81510|Insulinome, SAI (C25.-)|Other specific carcinomas|4|5||17
+81513|Insulinome malin (C25.-)|Other specific carcinomas|4|5||17
+81521|Glucagonome, SAI (C25.-)|Other specific carcinomas|4|5||17
+81523|Glucagonome malin (C25.-)|Other specific carcinomas|4|5||17
+81531|Gastrinome, SAI|Other specific carcinomas|4|5||17
+81533|Gastrinome malin|Other specific carcinomas|4|5||17
+81543|Adénocarcinome à cellules insulaires et à cellules exocrines (C25.-)|Other specific carcinomas|4|5||17
+81551|Vipome, SAI|Other specific carcinomas|4|5||17
+81553|Vipome malin|Other specific carcinomas|4|5||17
+81561|Somatostatinome, SAI|Other specific carcinomas|4|5||17
+81563|Somatostatinome malin|Other specific carcinomas|4|5||17
+81571|Entéroglucagonome, SAI|Other specific carcinomas|4|5||17
+81573|Entéroglucagonome malin|Other specific carcinomas|4|5||17
+81600|Cholangiome bénin (C22.1, C24.0)|Adenocarcinomas|3|5||17
+81603|Cholangiocarcinome (C22.1, C24.0)|Adenocarcinomas|3|5||17
+81610|Cystadénome biliaire (C22.1, C24.0)|Adenocarcinomas|3|5||17
+81613|Cystadénocarcinome biliaire (C22.1, C24.0)|Adenocarcinomas|3|5||17
+81623|Tumeur de Klatskin (C22.1, C24.0)|Adenocarcinomas|3|5||17
+81700|Hépatome bénin (C22.0)|Other specific carcinomas|4|5||17
+81703|Carcinome hépatocellulaire, SAI (C22.0)|Other specific carcinomas|4|5||17
+81713|Carcinome hépatocellulaire fibrolamellaire (C22.0)|Other specific carcinomas|4|5||17
+81723|Carcinome hépatocellulaire squirrheux (C22.0)|Other specific carcinomas|4|5||17
+81733|Carcinome hépatocellulaire, variante à cellules fusiformes (C22.0)|Other specific carcinomas|4|5||17
+81743|Carcinome hépatocellulaire à cellules claires (C22.0)|Other specific carcinomas|4|5||17
+81753|Carcinome hépatocellulaire pléomorphe (C22.0)|Other specific carcinomas|4|5||17
+81803|Carcinome hépatocellulaire et cholangiocarcinome combinés (C22.0)|Other specific carcinomas|4|5||17
+81900|Adénome trabéculaire|Adenocarcinomas|3|5||17
+81903|Adénocarcinome trabéculaire, SAI|Adenocarcinomas|3|5||17
+81910|Adénome embryonnaire|Adenocarcinomas|3|5||17
+82000|Cylindrome eccrine dermique (C44.-)|Adenocarcinomas|3|5||17
+82003|Carcinome adénoïde kystique|Adenocarcinomas|3|5||17
+82012|Carcinome cribriforme intra-épithélial (C50.-)|Adenocarcinomas|3|5||17
+82013|Carcinome cribriforme, SAI|Adenocarcinomas|3|5||17
+82020|Adénome microkystique (C25.-)|Adenocarcinomas|3|5||17
+82040|Adénome de lactation (C50.-)|Adenocarcinomas|3|5||17
+82100|Polype adénomateux, SAI|Adenocarcinomas|3|5||17
+82102|Adénocarcinome in situ sur polype adénomateux|Adenocarcinomas|3|5||17
+82103|Adénocarcinome sur polyadénome|Adenocarcinomas|3|5||17
+82110|Adénome tubuleux, SAI|Adenocarcinomas|3|5||17
+82113|Adénocarcinome tubuleux|Adenocarcinomas|3|5||17
+82120|Adénome plat|Adenocarcinomas|3|5||17
+82130|Adénome dentelé (C18.-)|Adenocarcinomas|3|5||17
+82143|Carcinome à cellules pariétales (C16.-)|Adenocarcinomas|3|5||17
+82153|Adénocarcinome des glandes anales (C21.1)|Adenocarcinomas|3|5||17
+82200|Adénomatose polypoïde du côlon (C18.-)|Adenocarcinomas|3|5||17
+82203|Adénocarcinome sur adénomatose polypoïde du côlon (C18.-)|Adenocarcinomas|3|5||17
+82210|Polypose multiple|Adenocarcinomas|3|5||17
+82213|Adénocarcinome sur polypes adénomateux multiples|Adenocarcinomas|3|5||17
+82302|Carcinome canalaire intraépithélial solide (C50.-)|Other specific carcinomas|4|5||17
+82303|Carcinome solide, SAI|Other specific carcinomas|4|5||17
+82313|Carcinome simplex|Other specific carcinomas|4|5||17
+82401|Tumeur carcinoïde de potentiel malin incertain|Other specific carcinomas|4|5||17
+82403|Tumeur carcinoïde , SAI (sauf appendice,r M-8240/1)|Other specific carcinomas|4|5||17
+82413|Carcinoïde malin à cellules entérochromaffines|Other specific carcinomas|4|5||17
+82421|Carcinoïde à cellules entérochromaffinoïdes, SAI|Other specific carcinomas|4|5||17
+82423|Carcinoïde malin à cellules entérochromaffinoïdes|Other specific carcinomas|4|5||17
+82433|Tumeur maligne mucocarcinoïde|Other specific carcinomas|4|5||17
+82443|Tumeur carcinoïde mixte|Other specific carcinomas|4|5||17
+82451|Carcinoïde tubuleux|Other specific carcinomas|4|5||17
+82453|Tumeur adénocarcinoïde|Other specific carcinomas|4|5||17
+80000|Tumeur bénigne|Unspecified types of cancer|17|||17
+80001|Tumeur de bénignité ou de malignité non assurée|Unspecified types of cancer|17|||17
+80003|Tumeur maligne, SAI|Unspecified types of cancer|17|||17
+80006|Tumeur métastatique|Unspecified types of cancer|17|||17
+80009|Tumeur maligne de nature primaire ou secondaire non assurée|Unspecified types of cancer|17|||17
+80010|Cellules tumorales bénignes|Unspecified types of cancer|17|||17
+80011|Cellules tumorales de bénignité ou de malignité non assurée|Unspecified types of cancer|17|||17
+80013|Cellules tumorales malignes|Unspecified types of cancer|17|||17
+80023|Tumeur maligne à petites cellules|Unspecified types of cancer|17|||17
+80033|Tumeur maligne à grandes cellules|Unspecified types of cancer|17|||17
+80043|Tumeur maligne à cellules fusiformes|Unspecified types of cancer|17|||17
+80050|Tumeur à cellules claires, SAI|Unspecified types of cancer|17|||17
+80053|Tumeur maligne à cellules claires|Unspecified types of cancer|17|||17
+80100|Tumeur épithéliale bénigne|Unspecified carcinomas|5|5||17
+80102|Carcinome in situ, SAI|Unspecified carcinomas|5|5||17
+80103|Carcinome, SAI|Unspecified carcinomas|5|5||17
+80106|Carcinome métastatique, SAI|Unspecified carcinomas|5|5||17
+80109|Carcinomatose|Unspecified carcinomas|5|5||17
+80110|Épithéliome bénin|Unspecified carcinomas|5|5||17
+80113|Épithéliome malin|Unspecified carcinomas|5|5||17
+80123|Carcinome à grandes cellules, SAI|Unspecified carcinomas|5|5||17
+80133|Carcinome neuroendocrinien à grandes cellules|Unspecified carcinomas|5|5||17
+80143|Carcinome à grandes cellules avec un phénotype rhabdoïde|Unspecified carcinomas|5|5||17
+80153|Carcinome à cellules hyalines|Unspecified carcinomas|5|5||17
+80203|Carcinome indifférencié, SAI|Unspecified carcinomas|5|5||17
+80213|Carcinome anaplasique, SAI|Unspecified carcinomas|5|5||17
+80223|Carcinome pléomorphe|Unspecified carcinomas|5|5||17
+80303|Carcinome à cellules géantes et à cellules fusiformes|Other specific carcinomas|4|5||17
+80313|Carcinome à cellules géantes|Other specific carcinomas|4|5||17
+80323|Carcinome à cellules fusiformes, SAI|Other specific carcinomas|4|5||17
+80333|Carcinome pseudosarcomateux|Other specific carcinomas|4|5||17
+80343|Carcinome à cellules polygonales|Other specific carcinomas|4|5||17
+80353|Carcinome à cellules géantes ostéoclastiformes|Other specific carcinomas|4|5||17
+80400|Tumorlet bénin|Other specific carcinomas|4|5||17
+80401|Tumorlet, SAI|Other specific carcinomas|4|5||17
+80413|Carcinome à petites cellules, SAI|Other specific carcinomas|4|5||17
+80423|Carcinome à cellules en grain d’avoine (C34.-)|Other specific carcinomas|4|5||17
+80433|Carcinome à petites cellules fusiformes|Other specific carcinomas|4|5||17
+80443|Carcinome à petites cellules intermédiaires|Other specific carcinomas|4|5||17
+80453|Carcinome mixte à petites cellules|Other specific carcinomas|4|5||17
+80463|Carcinome non à petites cellules (C34.-)|Other specific carcinomas|4|5||17
+80500|Papillome, SAI (à l’exclusion du papillome de la vessie M-8120/1)|Unspecified carcinomas|5|5||17
+80502|Carcinome papillaire in situ|Unspecified carcinomas|5|5||17
+80503|Carcinome papillaire, SAI|Unspecified carcinomas|5|5||17
+80510|Papillome verruqueux|Squamous and transitional cell carcinomas|1|5||17
+80513|Carcinome verruqueux, SAI|Squamous and transitional cell carcinomas|1|5||17
+80520|Papillome spinocellulaire, SAI|Squamous and transitional cell carcinomas|1|5||17
+80522|Carcinome épidermoïde papillaire non invasif|Squamous and transitional cell carcinomas|1|5||17
+80523|Carcinome épidermoïde papillaire|Squamous and transitional cell carcinomas|1|5||17
+80530|Papillome épidermoïde inversé|Squamous and transitional cell carcinomas|1|5||17
+80600|Papillomatose épidermoïde|Squamous and transitional cell carcinomas|1|5||17
+80702|Carcinome épidermoïde in situ, SAI|Squamous and transitional cell carcinomas|1|5||17
+80703|Carcinome épidermoïde, SAI|Squamous and transitional cell carcinomas|1|5||17
+80706|Carcinome épidermoïde, métastatique, SAI|Squamous and transitional cell carcinomas|1|5||17
+80713|Carcinome épidermoïde kératinisant, SAI|Squamous and transitional cell carcinomas|1|5||17
+80723|Carcinome épidermoïde non kératinisant, à grandes cellules, SAI|Squamous and transitional cell carcinomas|1|5||17
+80733|Carcinome épidermoïde non kératinisant, à petites cellules|Squamous and transitional cell carcinomas|1|5||17
+80743|Carcinome épidermoïde à cellules fusiformes|Squamous and transitional cell carcinomas|1|5||17
+80753|Carcinome épidermoïde pseudo-glandulaire|Squamous and transitional cell carcinomas|1|5||17
+80762|Carcinome épidermoïde in situ avec possibilité d’envahissement du stroma|Squamous and transitional cell carcinomas|1|5||17
+80763|Carcinome épidermoïde micro-invasif|Squamous and transitional cell carcinomas|1|5||17
+80772|Néoplasie intraépithéliale, grade III (voir règles de codage, page x)|Squamous and transitional cell carcinomas|1|5||17
+80783|Carcinome épidermoïde avec formation d’une corne cutanée|Squamous and transitional cell carcinomas|1|5||17
+80802|Érythroplasie de Queyrat (C60.-)|Squamous and transitional cell carcinomas|1|5||17
+80812|Maladie de Bowen (C44.-)|Squamous and transitional cell carcinomas|1|5||17
+80823|Carcinome lymphoépithélial|Squamous and transitional cell carcinomas|1|5||17
+80833|Carcinome épidermoïde basaloïde|Squamous and transitional cell carcinomas|1|5||17
+80843|Carcinome épidermoïde à cellules claires|Squamous and transitional cell carcinomas|1|5||17
+80901|Tumeur basocellulaire (C44.-)|Basal cell carcinomas|2|5||17
+80903|Carcinome basocellulaire, SAI (C44.-)|Basal cell carcinomas|2|5||17
+80913|Carcinome basocellulaire superficiel multifocal (C44.-)|Basal cell carcinomas|2|5||17
+80923|Carcinome basocellulaire infiltrant, SAI (C44.-)|Basal cell carcinomas|2|5||17
+80933|Carcinome basocellulaire fibro-épithélial (C44.-)|Basal cell carcinomas|2|5||17
+80943|Carcinome basospinocellulaire (C44.-)|Basal cell carcinomas|2|5||17
+80953|Carcinome intermédiaire (C44.-)|Basal cell carcinomas|2|5||17
+80960|Épithéliome intra-épidermique de Borst et Jadassohn (C44.-)|Basal cell carcinomas|2|5||17
+80973|Carcinome basocellulaire nodulaire (C44.-)|Basal cell carcinomas|2|5||17
+80983|Carcinome basocellulaire adénoïde (C53.-)|Basal cell carcinomas|2|5||17
+81000|Trichoépithéliome (C44.-)|Basal cell carcinomas|2|5||17
+81010|Trichofolliculome (C44.-)|Basal cell carcinomas|2|5||17
+81020|Trichilemmome (C44.-)|Basal cell carcinomas|2|5||17
+81023|Trichilemmocarcinome (C44.-)|Basal cell carcinomas|2|5||17
+81030|Tumeur pilaire (C44.-)|Basal cell carcinomas|2|5||17
+81100|Pilomatrixome, SAI (C44.-)|Basal cell carcinomas|2|5||17
+81103|Carcinome pilomatriciel (C44.-)|Basal cell carcinomas|2|5||17
+81200|Papillome bénin à cellules transitionnelles|Squamous and transitional cell carcinomas|1|5||17
+81201|Papillome à cellules transitionnelles, SAI|Squamous and transitional cell carcinomas|1|5||17
+82463|Carcinome neuroendocrinien, SAI|Other specific carcinomas|4|5||17
+82473|Carcinome à cellules de Merkel (C44.-)|Other specific carcinomas|4|5||17
+82481|Apudome|Other specific carcinomas|4|5||17
+82493|Tumeur carcinoïde maligne atypique|Other specific carcinomas|4|5||17
+82501|Adénomatose pulmonaire (C34.-)|Other specific carcinomas|4|5||17
+82503|Adénocarcinome bronchioloalvéolaire, SAI (C34.-)|Other specific carcinomas|4|5||17
+82510|Adénome alvéolaire (C34.-)|Other specific carcinomas|4|5||17
+82513|Adénocarcinome alvéolaire (C34.-)|Other specific carcinomas|4|5||17
+82523|Carcinome bronchioloalvéolaire non mucineux (C34.-)|Other specific carcinomas|4|5||17
+82533|Carcinome bronchioloalvéolaire mucineux (C34.-)|Other specific carcinomas|4|5||17
+82543|Carcinome bronchioloalvéolaire mixte mucineux et non mucineux (C34.-)|Other specific carcinomas|4|5||17
+82553|Adénocarcinome avec sous-types mixtes|Other specific carcinomas|4|5||17
+82600|Adénome papillaire, SAI|Adenocarcinomas|3|5||17
+82603|Adénocarcinome papillaire, SAI|Adenocarcinomas|3|5||17
+82610|Adénome villeux|Adenocarcinomas|3|5||17
+82612|Adénocarcinome in situ sur adénome villeux|Adenocarcinomas|3|5||17
+82613|Adénocarcinome sur adénome villeux|Adenocarcinomas|3|5||17
+82623|Adénocarcinome villeux|Adenocarcinomas|3|5||17
+82630|Adénome tubulovilleux, SAI|Adenocarcinomas|3|5||17
+82632|Adénocarcinome in situ sur adénome tubulovilleux|Adenocarcinomas|3|5||17
+82633|Adénocarcinome sur adénome tubulovilleux|Adenocarcinomas|3|5||17
+82640|Papillomatose glandulaire|Adenocarcinomas|3|5||17
+82700|Adénome chromophobe (C75.1)|Adenocarcinomas|3|5||17
+82703|Adénocarcinome chromophobe (C75.1)|Adenocarcinomas|3|5||17
+82710|Prolactinome (C75.1)|Adenocarcinomas|3|5||17
+82720|Adénome pituitaire, SAI (C75.1)|Adenocarcinomas|3|5||17
+82723|Carcinome pituitaire, SAI (C75.1)|Adenocarcinomas|3|5||17
+82800|Adénome acidophile (C75.1)|Adenocarcinomas|3|5||17
+82803|Adénocarcinome éosinophile (C75.1)|Adenocarcinomas|3|5||17
+82810|Adénome mixte acidophile et basophile (C75.1)|Adenocarcinomas|3|5||17
+82813|Adénocarcinome mixte acidophile et basophile (C75.1)|Adenocarcinomas|3|5||17
+82900|Adénome oxyphile|Adenocarcinomas|3|5||17
+82903|Adénocarcinome oxyphile|Adenocarcinomas|3|5||17
+83000|Adénome basophile (C75.1)|Adenocarcinomas|3|5||17
+83003|Adénocarcinome à cellules basophiles (C75.1)|Adenocarcinomas|3|5||17
+83100|Adénome à cellules claires|Adenocarcinomas|3|5||17
+83103|Adénocarcinome à cellules claires, SAI|Adenocarcinomas|3|5||17
+83111|Tumeur hypernéphroïde [obs]|Adenocarcinomas|3|5||17
+83123|Carcinome à cellules rénales, SAI (C64.9)|Adenocarcinomas|3|5||17
+83130|Adénofibrome à cellules claires (C56.9)|Adenocarcinomas|3|5||17
+83131|Adénofibrome à cellules claires à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+83133|Adénocarcinofibrome à cellules claires (C56.9)|Adenocarcinomas|3|5||17
+83143|Carcinome riche en lipides (C50.-)|Adenocarcinomas|3|5||17
+83153|Carcinome riche en glycogènes (C50.-)|Adenocarcinomas|3|5||17
+83163|Carcinome à cellules rénales associé à un kyste (C64.9)|Adenocarcinomas|3|5||17
+83173|Carcinome à cellules rénales chromophobes (C64.9)|Adenocarcinomas|3|5||17
+83183|Carcinome à cellules rénales sarcomatoïde (C64.9)|Adenocarcinomas|3|5||17
+83193|Carcinome des tubes droits du rein (C64.9)|Adenocarcinomas|3|5||17
+83203|Carcinome à cellules granuleuses|Adenocarcinomas|3|5||17
+83210|Adénome à cellules principales (C75.0)|Adenocarcinomas|3|5||17
+83220|Adénome à cellules eau de roche (C75.0)|Adenocarcinomas|3|5||17
+83223|Adénocarcinome à cellules eau de roche (C75.0)|Adenocarcinomas|3|5||17
+83230|Adénome à cellules mixtes|Adenocarcinomas|3|5||17
+83233|Adénocarcinome à cellules mixtes|Adenocarcinomas|3|5||17
+83240|Adénolipome|Adenocarcinomas|3|5||17
+83250|Adénome métanéphrique (C64.9)|Adenocarcinomas|3|5||17
+83300|Adénome vésiculaire (C73.9)|Adenocarcinomas|3|5||17
+83301|Adénome vésiculaire atypique (C73.9)|Adenocarcinomas|3|5||17
+83303|Adénocarcinome vésiculaire, SAI (C73.9)|Adenocarcinomas|3|5||17
+83313|Adénocarcinome vésiculaire bien différencié (C73.9)|Adenocarcinomas|3|5||17
+83323|Adénocarcinome vésiculaire trabéculaire (C73.9)|Adenocarcinomas|3|5||17
+83330|Adénome microvésiculaire, SAI (C73.9)|Adenocarcinomas|3|5||17
+83333|Adénocarcinome foetal|Adenocarcinomas|3|5||17
+83340|Adénome macrovésiculaire (C73.9)|Adenocarcinomas|3|5||17
+83353|Carcinome vésiculaire microinvasif (C73.9)|Adenocarcinomas|3|5||17
+83360|Adénome trabéculaire hyalinisant (C73.9)|Adenocarcinomas|3|5||17
+83373|Carcinome insulaire (C73.9)|Adenocarcinomas|3|5||17
+83403|Carcinome papillaire, variante vésiculaire (C73.9)|Other specific carcinomas|4|5||17
+83413|Microcarcinome papillaire (C73.9)|Other specific carcinomas|4|5||17
+83423|Carcinome papillaire à cellule  oxyphile (C73.9)|Other specific carcinomas|4|5||17
+83433|Carcinome papillaire encapsulé (C73.9)|Other specific carcinomas|4|5||17
+83443|Carcinome papillaire à cellules cylindriques (C73.9)|Other specific carcinomas|4|5||17
+83453|Carcinome médullaire à stroma amyloïde (C73.9)|Other specific carcinomas|4|5||17
+83463|Carcinome mixte médullaire et vésiculaire (C73.9)|Other specific carcinomas|4|5||17
+83473|Carcinome mixte médullaire et papillaire (C73.9)|Other specific carcinomas|4|5||17
+83503|Carcinome sclérosant non encapsulé (C73.9)|Adenocarcinomas|3|5||17
+83601|Adénomatose endocrinienne multiple|Adenocarcinomas|3|5||17
+83610|Tumeur juxtaglomérulaire (C64.9)|Adenocarcinomas|3|5||17
+83700|Adénome corticosurrénalien, SAI (C74.0)|Adenocarcinomas|3|5||17
+83703|Corticosurrénalome malin (C74.0)|Adenocarcinomas|3|5||17
+83710|Adénome corticosurrénalien à cellules compactes (C74.0)|Adenocarcinomas|3|5||17
+83720|Adénome corticosurrénalien pigmenté (C74.0)|Adenocarcinomas|3|5||17
+83730|Adénome corticosurrénalien à cellules claires (C74.0)|Adenocarcinomas|3|5||17
+83740|Adénome corticosurrénalien à cellules glomérulaires (C74.0)|Adenocarcinomas|3|5||17
+83750|Adénome corticosurrénalien à cellules mixtes (C74.0)|Adenocarcinomas|3|5||17
+83800|Adénome endométrioïde, SAI|Adenocarcinomas|3|5||17
+83801|Adénome endométrioïde à la limite de la malignité|Adenocarcinomas|3|5||17
+83803|Adénocarcinome endométrioïde, SAI|Adenocarcinomas|3|5||17
+83810|Adénofibrome endométrioïde, SAI|Adenocarcinomas|3|5||17
+83811|Adénofibrome endométrioïde à la limite de la malignité|Adenocarcinomas|3|5||17
+83813|Adénofibrome endométrioïde malin|Adenocarcinomas|3|5||17
+83823|Adénocarcinome endométrioïde, variante sécrétoire|Adenocarcinomas|3|5||17
+83833|Adénocarcinome endométrioïde, variante à cellules ciliées|Adenocarcinomas|3|5||17
+83843|Adénocarcinome de type endocervical|Adenocarcinomas|3|5||17
+83900|Adénome des annexes cutanées (C44.-)|Adenocarcinomas|3|5||17
+83903|Carcinome des annexes cutanées (C44.-)|Adenocarcinomas|3|5||17
+83910|Fibrome folliculaire (C44.-)|Adenocarcinomas|3|5||17
+83920|Syringofibroadénome (C44.-)|Adenocarcinomas|3|5||17
+84000|Adénome des glandes sudoripares (C44.-)|Adenocarcinomas|3|5||17
+84001|Tumeur des glandes sudoripares, SAI (C44.-)|Adenocarcinomas|3|5||17
+84003|Adénocarcinome des glandes sudoripares (C44.-)|Adenocarcinomas|3|5||17
+84010|Adénome apocrine|Adenocarcinomas|3|5||17
+84013|Adénocarcinome apocrine|Adenocarcinomas|3|5||17
+84020|Hidradénome nodulaire (C44.-)|Adenocarcinomas|3|5||17
+84023|Hidradénome nodulaire malin (C44.-)|Adenocarcinomas|3|5||17
+84030|Spiradénome eccrine (C44.-)|Adenocarcinomas|3|5||17
+84033|Spiradénome eccrine malin (C44.-)|Adenocarcinomas|3|5||17
+84040|Hidrocystome (C44.-)|Adenocarcinomas|3|5||17
+84050|Hidradénome papillaire|Adenocarcinomas|3|5||17
+84060|Syringoadénome papillaire (C44.-)|Adenocarcinomas|3|5||17
+84070|Syringome, SAI (C44.-)|Adenocarcinomas|3|5||17
+84073|Carcinome sclérosant d’un canal sudorifère (C44.-)|Adenocarcinomas|3|5||17
+84080|Adénome papillaire eccrine (C44.-)|Adenocarcinomas|3|5||17
+84081|Adénome papillaire digital agressif (C44.-)|Adenocarcinomas|3|5||17
+84083|Adénocarcinome papillaire eccrine (C44.-)|Adenocarcinomas|3|5||17
+84090|Porome eccrine (C44.-)|Adenocarcinomas|3|5||17
+84093|Porome eccrine malin|Adenocarcinomas|3|5||17
+84100|Adénome sébacé (C44.-)|Adenocarcinomas|3|5||17
+84103|Adénocarcinome sébacé (C44.-)|Adenocarcinomas|3|5||17
+84133|Adénocarcinome eccrine (C44.-)|Adenocarcinomas|3|5||17
+84200|Adénome cérumineux (C44.2)|Adenocarcinomas|3|5||17
+84203|Adénocarcinome cérumineux (C44.2)|Adenocarcinomas|3|5||17
+84301|Tumeur muco-épidermoïde [obs]|Adenocarcinomas|3|5||17
+84303|Carcinome muco-épidermoïde|Adenocarcinomas|3|5||17
+84400|Cystadénome, SAI|Adenocarcinomas|3|5||17
+84403|Cystadénocarcinome, SAI|Adenocarcinomas|3|5||17
+84410|Cystadénome séreux, SAI|Adenocarcinomas|3|5||17
+84413|Cystadénocarcinome séreux, SAI (C56.9)|Adenocarcinomas|3|5||17
+84421|Cystadénome séreux à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84430|Cystadénome à cellules claires (C56.9)|Adenocarcinomas|3|5||17
+84441|Tumeur kystique à cellules claires à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84500|Cystadénome papillaire, SAI (C56.9)|Adenocarcinomas|3|5||17
+84503|Cystadénocarcinome papillaire, SAI (C56.9)|Adenocarcinomas|3|5||17
+84511|Cystadénome papillaire à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84521|Tumeur pseudopapillaire solide (C25.-)|Adenocarcinomas|3|5||17
+84523|Carcinome pseudopapillaire solide (C25.-)|Adenocarcinomas|3|5||17
+84530|Adénome intracanalaire mucineux et papillaire (C25.-)|Adenocarcinomas|3|5||17
+84531|Tumeur intracanalaire mucineuse et papillaire avec dysplasie modérée (C25.-)|Adenocarcinomas|3|5||17
+84532|Carcinome intracanalaire mucineux et papillaire, non invasif (C25.-)|Adenocarcinomas|3|5||17
+84533|Carcinome intracanalaire mucineux et papillaire, invasif (C25.-)|Adenocarcinomas|3|5||17
+84540|Tumeur kystique du nœud auriculo-ventriculaire (C38.0)|Adenocarcinomas|3|5||17
+84600|Cystadénome séreux papillaire, SAI (C56.9)|Adenocarcinomas|3|5||17
+84603|Cystadénocarcinome séreux papillaire (C56.9)|Adenocarcinomas|3|5||17
+84610|Papillome séreux de surface,  (C56.9)|Adenocarcinomas|3|5||17
+84613|Carcinome séreux papillaire de surface (C56.9)|Adenocarcinomas|3|5||17
+84621|Tumeur kystique séreuse papillaire à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84631|Tumeur séreuse papillaire de surface à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84700|Cystadénome mucineux, SAI (C56.9)|Adenocarcinomas|3|5||17
+84701|Tumeur kystique mucineuse avec dysplasie modérée (C25.-)|Adenocarcinomas|3|5||17
+84702|Cystadénocarcinome mucineux, non invasif (C25.-)|Adenocarcinomas|3|5||17
+84703|Cystadénocarcinome mucineux, SAI (C56.9)|Adenocarcinomas|3|5||17
+84710|Cystadénome papillaire  mucineux, SAI (C56.9)|Adenocarcinomas|3|5||17
+84713|Cystadénocarcinome papillaire mucineux (C56.9)|Adenocarcinomas|3|5||17
+84721|Tumeur kystique mucineuse à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84731|Cystadénome papillaire mucineux à la limite de la malignité (C56.9)|Adenocarcinomas|3|5||17
+84800|Adénome mucineux|Adenocarcinomas|3|5||17
+84803|Adénocarcinome colloïde|Adenocarcinomas|3|5||17
+84806|Pseudomyxome du péritoine|Adenocarcinomas|3|5||17
+84813|Adénocarcinome mucipare|Adenocarcinomas|3|5||17
+84823|Adénocarcinome mucineux de type endocervical|Adenocarcinomas|3|5||17
+84903|Adénocarcinome à cellules en bague à chaton|Adenocarcinomas|3|5||17
+84906|Carcinome métastatique à cellules en bague à chaton|Adenocarcinomas|3|5||17
+85002|Carcinome intracanalaire non infiltrant, SAI|Adenocarcinomas|3|5||17
+85003|Adénocarcinome canalaire infiltrant, SAI (C50.-)|Adenocarcinomas|3|5||17
+85012|Comédocarcinome non infiltrant (C50.-)|Adenocarcinomas|3|5||17
+85013|Comédocarcinome, SAI (C50.-)|Adenocarcinomas|3|5||17
+85023|Carcinome juvénile du sein (C50.-)|Adenocarcinomas|3|5||17
+85030|Papillome intracanalaire|Adenocarcinomas|3|5||17
+85032|Adénocarcinome papillaire intracanalaire non infiltrant (C50.-)|Adenocarcinomas|3|5||17
+85033|Adénocarcinome papillaire intracanalaire infiltrant|Adenocarcinomas|3|5||17
+85040|Adénome papillaire intrakystique|Adenocarcinomas|3|5||17
+85042|Carcinome intrakystique non infiltrant|Adenocarcinomas|3|5||17
+85043|Carcinome intrakystique, SAI|Adenocarcinomas|3|5||17
+85050|Papillomatose intracanalaire, SAI|Adenocarcinomas|3|5||17
+85060|Adénomatose du mamelon (C50.0)|Adenocarcinomas|3|5||17
+85072|Carcinome intracanalaire micropapillaire (C50.-)|Adenocarcinomas|3|5||17
+85083|Carcinome hypersécrétoire kystique (C50.-)|Adenocarcinomas|3|5||17
+85103|Carcinome médullaire, SAI|Adenocarcinomas|3|5||17
+85123|Carcinome médullaire à stroma lymphoïde|Adenocarcinomas|3|5||17
+85133|Carcinome médullaire atypique (C50.-)|Adenocarcinomas|3|5||17
+85143|Carcinome canalaire de type desmoplasique|Adenocarcinomas|3|5||17
+85202|Carcinome lobulaire in situ, SAI (C50.-)|Adenocarcinomas|3|5||17
+85203|Carcinome lobulaire, SAI (C50.-)|Adenocarcinomas|3|5||17
+85213|Carcinome canaliculaire infiltrant (C50.-)|Adenocarcinomas|3|5||17
+85222|Carcinome intracanalaire et carcinome lobulaire in situ (C50.-)|Adenocarcinomas|3|5||17
+85223|Carcinome canalaire et lobulaire infiltrant (C50.-)|Adenocarcinomas|3|5||17
+85233|Carcinome canalaire infiltrant avec autres types de carcinomes (C50.-)|Adenocarcinomas|3|5||17
+85243|Carcinome lobulaire infiltrant avec autres types de carcinomes (C50.-)|Adenocarcinomas|3|5||17
+85253|Adénocarcinome polymorphe de bas grade|Adenocarcinomas|3|5||17
+85303|Carcinome inflammatoire (C50.-)|Adenocarcinomas|3|5||17
+85403|Maladie de Paget du sein (C50.-)|Adenocarcinomas|3|5||17
+85413|Maladie de Paget et carcinome canalaire infiltrant du sein (C50.-)|Adenocarcinomas|3|5||17
+85423|Maladie de Paget extramammaire (à l’exclusion de la maladie de Paget de l’os)|Adenocarcinomas|3|5||17
+85433|Maladie de Paget et carcinome intracanalaire du sein (C50.-)|Adenocarcinomas|3|5||17
+85500|Adénome à cellules acineuses|Adenocarcinomas|3|5||17
+85501|Tumeur à cellules acineuses [obs]|Adenocarcinomas|3|5||17
+85503|Adénocarcinome à cellules acineuses|Adenocarcinomas|3|5||17
+85513|Cystadénocarcinome à cellules acineuses|Adenocarcinomas|3|5||17
+85600|Papillome mixte glandulaire et spinocellulaire|Other specific carcinomas|4|5||17
+85603|Carcinome adénosquameux|Other specific carcinomas|4|5||17
+85610|Adénolymphome (C07.-, C08.-)|Other specific carcinomas|4|5||17
+85623|Carcinome épithélialmyoépithélial|Other specific carcinomas|4|5||17
+85703|Adénocarcinome avec métaplasie malpighienne|Adenocarcinomas|3|5||17
+85713|Adénocarcinome avec métaplasie cartilagineuse et osseuse|Adenocarcinomas|3|5||17
+85723|Adénocarcinome avec métaplasie fusocellulaire|Adenocarcinomas|3|5||17
+85733|Adénocarcinome avec métaplasie apocrine|Adenocarcinomas|3|5||17
+85743|Adénocarcinome avec différenciation neuroendocrinienne|Adenocarcinomas|3|5||17
+85753|Carcinome métaplasique, SAI|Adenocarcinomas|3|5||17
+85763|Adénocarcinome hépatoïde|Adenocarcinomas|3|5||17
+85800|Thymome bénin (C37.9)|Other specific carcinomas|4|5||17
+85801|Thymome, SAI (C37.9)|Other specific carcinomas|4|5||17
+85803|Thymome malin, SAI (C37.9)|Other specific carcinomas|4|5||17
+85811|Thymome de type A, SAI (C37.9)|Other specific carcinomas|4|5||17
+85813|Thymome malin de type A (C37.9)|Other specific carcinomas|4|5||17
+85821|Thymome de type AB, SAI (C37.9)|Other specific carcinomas|4|5||17
+85823|Thymome malin de type AB (C37.9)|Other specific carcinomas|4|5||17
+85831|Thymome de type B1, SAI (C37.9)|Other specific carcinomas|4|5||17
+85833|Thymome malin de type B1 (C37.9)|Other specific carcinomas|4|5||17
+85841|Thymome de type B2, SAI (C37.9)|Other specific carcinomas|4|5||17
+85843|Thymome malin de type B2 (C37.9)|Other specific carcinomas|4|5||17
+85851|Thymome de type B3, SAI (C37.9)|Other specific carcinomas|4|5||17
+85853|Thymome malin de type B3 (C37.9)|Other specific carcinomas|4|5||17
+85863|Carcinome thymique, SAI (C37.9)|Other specific carcinomas|4|5||17
+85870|Thymome hamartomateux ectopique|Other specific carcinomas|4|5||17
+85883|Tumeur épithéliale fusiforme avec éléments d’allure thymique|Other specific carcinomas|4|5||17
+85893|Carcinome présentant des éléments d’allure thymique|Other specific carcinomas|4|5||17
+85901|Tumeur des cordons sexuels et du stroma gonadique, SAI|Other specific carcinomas|4|5||17
+85911|Tumeur des cordons sexuels et du stroma gonadique, partiellement différenciée|Other specific carcinomas|4|5||17
+85921|Tumeur des cordons sexuels et du stroma gonadique, formes mixtes|Other specific carcinomas|4|5||17
+85931|Tumeur du stroma gonadique avec peu d’éléments de cordons sexuels (C56.9)|Other specific carcinomas|4|5||17
+86000|Thécome, SAI (C56.9)|Other specific carcinomas|4|5||17
+86003|Thécome malin (C56.9)|Other specific carcinomas|4|5||17
+86010|Thécome lutéinisé (C56.9)|Other specific carcinomas|4|5||17
+86020|Tumeur stromale sclérosante (C56.9)|Other specific carcinomas|4|5||17
+86100|Lutéome, SAI (C56.9)|Other specific carcinomas|4|5||17
+86201|Tumeur de la granulosa de type adulte (C56.9)|Other specific carcinomas|4|5||17
+86203|Tumeur maligne de la granulosa (C56.9)|Other specific carcinomas|4|5||17
+86211|Tumeur de la granulosa et de la thèque (C56.9)|Other specific carcinomas|4|5||17
+86221|Tumeur de la granulosa juvénile (C56.9)|Other specific carcinomas|4|5||17
+86231|Tumeur des cordons sexuels avec tubules annulaires (C56.9)|Other specific carcinomas|4|5||17
+86300|Androblastome bénin|Other specific carcinomas|4|5||17
+86301|Androblastome, SAI|Other specific carcinomas|4|5||17
+86303|Androblastome malin|Other specific carcinomas|4|5||17
+86310|Tumeur à cellules de Sertoli-Leydig, bien différenciée|Other specific carcinomas|4|5||17
+86311|Tumeur à cellules de Sertoli-Leydig de différenciation intermédiaire|Other specific carcinomas|4|5||17
+86313|Tumeur à cellules de Sertoli-Leydig, peu différenciée|Other specific carcinomas|4|5||17
+86321|Gynandroblastome (C56.9)|Other specific carcinomas|4|5||17
+86331|Tumeur rétiforme à cellules de Sertoli-Leydig|Other specific carcinomas|4|5||17
+86341|Tumeur à cellules de Sertoli-Leydig, différenciation intermédiaire, avec éléments hétérologues|Other specific carcinomas|4|5||17
+86343|Tumeur à cellules de Sertoli-Leydig, peu différenciée, avec éléments hétérologues|Other specific carcinomas|4|5||17
+86401|Tumeur à cellules de Sertoli, SAI|Other specific carcinomas|4|5||17
+86403|Carcinome à cellules de Sertoli (C62.-)|Other specific carcinomas|4|5||17
+86410|Tumeur à cellules de Sertoli lipidiques (C56.9)|Other specific carcinomas|4|5||17
+86421|Androblastome calcifiant à grandes cellules|Other specific carcinomas|4|5||17
+86500|Tumeur bénigne à cellules de Leydig (C62.-)|Other specific carcinomas|4|5||17
+86501|Tumeur à cellules de Leydig, SAI (C62.-)|Other specific carcinomas|4|5||17
+86503|Tumeur maligne à cellules de Leydig (C62.-)|Other specific carcinomas|4|5||17
+86600|Tumeur à cellules du hile (C56.9)|Other specific carcinomas|4|5||17
+86700|Tumeur à cellules lipoïdiques de l’ovaire (C56.9)|Other specific carcinomas|4|5||17
+86703|Tumeur maligne à cellules stéroïdiennes|Other specific carcinomas|4|5||17
+86710|Tumeur des vestiges surrénaliens|Other specific carcinomas|4|5||17
+86800|Paragangliome bénin|Sarcomas and soft tissue tumors|6|||17
+86801|Paragangliome, SAI|Sarcomas and soft tissue tumors|6|||17
+86803|Paragangliome malin|Sarcomas and soft tissue tumors|6|||17
+86811|Paragangliome sympathique|Sarcomas and soft tissue tumors|6|||17
+86821|Paragangliome parasympathique|Sarcomas and soft tissue tumors|6|||17
+86830|Paragangliome gangliocytaire (C17.0)|Sarcomas and soft tissue tumors|6|||17
+86901|Tumeur du glomus jugulaire, SAI (C75.5)|Sarcomas and soft tissue tumors|6|||17
+86911|Tumeur du corpuscule aortique (C75.5)|Sarcomas and soft tissue tumors|6|||17
+86921|Tumeur du corpuscule carotidien (C75.4)|Sarcomas and soft tissue tumors|6|||17
+86931|Paragangliome extrasurrénalien, SAI|Sarcomas and soft tissue tumors|6|||17
+86933|Paragangliome extrasurrénalien malin|Sarcomas and soft tissue tumors|6|||17
+87000|Phéochromocytome, SAI (C74.1)|Sarcomas and soft tissue tumors|6|||17
+87003|Phéochromocytome malin (C74.1)|Sarcomas and soft tissue tumors|6|||17
+87103|Glomangiosarcome|Sarcomas and soft tissue tumors|6|||17
+87110|Tumeur glomique, SAI|Sarcomas and soft tissue tumors|6|||17
+87113|Tumeur glomique maligne|Sarcomas and soft tissue tumors|6|||17
+87120|Glomangiome|Sarcomas and soft tissue tumors|6|||17
+87130|Glomangiomyome|Sarcomas and soft tissue tumors|6|||17
+87200|Nævus pigmentaire, SAI (C44.-)|Other specified types of cancer|16|||17
+87202|Mélanome in situ|Other specified types of cancer|16|||17
+87203|Mélanome malin, SAI (à l’exception du mélanome juvénile M-8770/0)|Other specified types of cancer|16|||17
+87213|Mélanome nodulaire (C44.-)|Other specified types of cancer|16|||17
+87220|Nævus à cellules ballonisées (C44.-)|Other specified types of cancer|16|||17
+87223|Mélanome à cellules ballonisées (C44.-)|Other specified types of cancer|16|||17
+87230|Nævus en halo (C44.-)|Other specified types of cancer|16|||17
+87233|Mélanome malin régressant (C44.-)|Other specified types of cancer|16|||17
+87250|Neuronævus (C44.-)|Other specified types of cancer|16|||17
+87260|Nævus à grandes cellules (C69.4)|Other specified types of cancer|16|||17
+87270|Nævus dysplasique (C44.-)|Other specified types of cancer|16|||17
+87280|Mélanocytose diffuse (C70.9)|Other specified types of cancer|16|||17
+87281|Mélanocytome méningé (C70.9)|Other specified types of cancer|16|||17
+87283|Mélanomatose méningée (C70.9)|Other specified types of cancer|16|||17
+87300|Nævus achromique (C44.-)|Other specified types of cancer|16|||17
+87303|Mélanome achromique (C44.-)|Other specified types of cancer|16|||17
+87400|Nævus de jonction, SAI (C44.-)|Other specified types of cancer|16|||17
+87403|Mélanome malin sur enævus de jonction (C44.-)|Other specified types of cancer|16|||17
+87412|Mélanose précancéreuse, SAI (C44.-)|Other specified types of cancer|16|||17
+87413|Mélanome malin sur mélanose précancéreuse (C44.-)|Other specified types of cancer|16|||17
+87422|Lentigo malin (C44.-)|Other specified types of cancer|16|||17
+87423|Mélanome malin sur lentigo malin des vieillards (C44.-)|Other specified types of cancer|16|||17
+87433|Mélanome à extension superficielle (C44.-)|Other specified types of cancer|16|||17
+87443|Mélanome acral lentigineux malin (C44.-)|Other specified types of cancer|16|||17
+87453|Mélanome malin desmoplasique (C44.-)|Other specified types of cancer|16|||17
+87463|Mélanome muqueux lentigineux|Other specified types of cancer|16|||17
+87500|Nævus intradermique (C44.-)|Other specified types of cancer|16|||17
+87600|Nævus mixte (C44.-)|Other specified types of cancer|16|||17
+87610|Petit nævus congénital (C44.-)|Other specified types of cancer|16|||17
+87611|Nævus pigmentaire géant, SAI (C44.-)|Other specified types of cancer|16|||17
+87613|Mélanome malin sur nævus pigmentaire géant (C44.-)|Other specified types of cancer|16|||17
+87621|Lésion dermique proliférative sur nævus congénital (C44.-)|Other specified types of cancer|16|||17
+87700|Nævus à cellules épithélioïdes et à cellules fusiformes (C44.-)|Other specified types of cancer|16|||17
+87703|Mélanome à cellules épithélioïdes et à cellules fusiformes|Other specified types of cancer|16|||17
+87710|Nævus à cellules épithélioïdes (C44.-)|Other specified types of cancer|16|||17
+87713|Mélanome à cellules épithélioïdes|Other specified types of cancer|16|||17
+87720|Nævus à cellules fusiformes, SAI (C44.-)|Other specified types of cancer|16|||17
+87723|Mélanome à cellules fusiformes, SAI|Other specified types of cancer|16|||17
+87733|Mélanome à cellules fusiformes de type A (C69.-)|Other specified types of cancer|16|||17
+87743|Mélanome à cellules fusiformes de type B (C69.-)|Other specified types of cancer|16|||17
+87800|Nævus bleu, SAI (C44.-)|Other specified types of cancer|16|||17
+87803|Nævus bleu malin (C44.-)|Other specified types of cancer|16|||17
+87900|Nævus bleu cellulaire (C44.-)|Other specified types of cancer|16|||17
+88000|Tumeur bénigne des tissus mous|Sarcomas and soft tissue tumors|6|||17
+88003|Sarcome, SAI|Sarcomas and soft tissue tumors|6|||17
+88009|Sarcomatose, SAI|Sarcomas and soft tissue tumors|6|||17
+88013|Sarcome à cellules fusiformes|Sarcomas and soft tissue tumors|6|||17
+88023|Sarcome à cellules géantes (à l’exception de l’os M-9250/3)|Sarcomas and soft tissue tumors|6|||17
+88033|Sarcome à petites cellules|Sarcomas and soft tissue tumors|6|||17
+88043|Sarcome épithélioïde|Sarcomas and soft tissue tumors|6|||17
+88053|Sarcome indifférencié|Sarcomas and soft tissue tumors|6|||17
+88063|Tumeur desmoplastique à petites cellules rondes|Sarcomas and soft tissue tumors|6|||17
+88100|Fibrome, SAI|Sarcomas and soft tissue tumors|6|||17
+88101|Fibrome cellulaire (C56.9)|Sarcomas and soft tissue tumors|6|||17
+88103|Fibrosarcome, SAI|Sarcomas and soft tissue tumors|6|||17
+88110|Fibromyxome|Sarcomas and soft tissue tumors|6|||17
+88113|Fibromyxosarcome|Sarcomas and soft tissue tumors|6|||17
+88120|Fibrome périostique (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+88123|Fibrosarcome périostique (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+88130|Fibrome des fascias|Sarcomas and soft tissue tumors|6|||17
+88133|Fibrosarcome des fascias|Sarcomas and soft tissue tumors|6|||17
+88143|Fibrosarcome infantile|Sarcomas and soft tissue tumors|6|||17
+88150|Tumeur fibreuse solitaire|Sarcomas and soft tissue tumors|6|||17
+88153|Tumeur fibreuse solitaire maligne|Sarcomas and soft tissue tumors|6|||17
+88200|Élastofibrome|Sarcomas and soft tissue tumors|6|||17
+88211|Fibromatose agressive|Sarcomas and soft tissue tumors|6|||17
+88221|Fibromatose abdominale|Sarcomas and soft tissue tumors|6|||17
+88230|Fibrome desmoplasique|Sarcomas and soft tissue tumors|6|||17
+88240|Myofibrome|Sarcomas and soft tissue tumors|6|||17
+88241|Myofibromatose|Sarcomas and soft tissue tumors|6|||17
+88250|Myofibroblastome|Sarcomas and soft tissue tumors|6|||17
+88251|Tumeur myofibroblastique, SAI|Sarcomas and soft tissue tumors|6|||17
+88260|Angiomyofibroblastome|Sarcomas and soft tissue tumors|6|||17
+88271|Tumeur myofibroblastique péribronchique (C34.-)|Sarcomas and soft tissue tumors|6|||17
+88300|Histiocytome fibreux bénin|Sarcomas and soft tissue tumors|6|||17
+88301|Histiocytome fibreux atypique|Sarcomas and soft tissue tumors|6|||17
+88303|Histiocytome fibreux malin|Sarcomas and soft tissue tumors|6|||17
+88310|Histiocytome, SAI|Sarcomas and soft tissue tumors|6|||17
+88320|Dermatofibrome, SAI (C44.-)|Sarcomas and soft tissue tumors|6|||17
+88323|Dermatofibrosarcome, SAI (C44.-)|Sarcomas and soft tissue tumors|6|||17
+88333|Dermatofibrosarcome protubérant pigmenté (C44.-)|Sarcomas and soft tissue tumors|6|||17
+88341|Fibroblastome à cellules géantes|Sarcomas and soft tissue tumors|6|||17
+88351|Tumeur fibrohistiocytaire plexiforme|Sarcomas and soft tissue tumors|6|||17
+88361|Histiocytome fibreux angiomatoïde|Sarcomas and soft tissue tumors|6|||17
+88400|Myxome, SAI|Sarcomas and soft tissue tumors|6|||17
+88403|Myxosarcome|Sarcomas and soft tissue tumors|6|||17
+88411|Angiomyxome|Sarcomas and soft tissue tumors|6|||17
+88420|Tumeur fibromyxoïde ossifiante|Sarcomas and soft tissue tumors|6|||17
+88500|Lipome, SAI|Sarcomas and soft tissue tumors|6|||17
+88501|Lipome atypique|Sarcomas and soft tissue tumors|6|||17
+88503|Liposarcome, SAI|Sarcomas and soft tissue tumors|6|||17
+88510|Fibrolipome|Sarcomas and soft tissue tumors|6|||17
+88513|Liposarcome bien différencié|Sarcomas and soft tissue tumors|6|||17
+88520|Fibromyxolipome|Sarcomas and soft tissue tumors|6|||17
+88523|Liposarcome myxoïde|Sarcomas and soft tissue tumors|6|||17
+88533|Liposarcome à cellules rondes|Sarcomas and soft tissue tumors|6|||17
+88540|Lipome pléomorphe|Sarcomas and soft tissue tumors|6|||17
+88543|Liposarcome pléomorphe|Sarcomas and soft tissue tumors|6|||17
+88553|Liposarcome à cellularité mixte|Sarcomas and soft tissue tumors|6|||17
+88560|Lipome intramusculaire|Sarcomas and soft tissue tumors|6|||17
+88570|Lipome à cellules fusiformes|Sarcomas and soft tissue tumors|6|||17
+88573|Liposarcome fibroblastique|Sarcomas and soft tissue tumors|6|||17
+88583|Liposarcome dédifférencié|Sarcomas and soft tissue tumors|6|||17
+88600|Angiomyolipome|Sarcomas and soft tissue tumors|6|||17
+88610|Angiolipome, SAI|Sarcomas and soft tissue tumors|6|||17
+88620|Lipome chondroïde|Sarcomas and soft tissue tumors|6|||17
+88700|Myélolipome|Sarcomas and soft tissue tumors|6|||17
+88800|Hibernome|Sarcomas and soft tissue tumors|6|||17
+88810|Lipoblastomatose|Sarcomas and soft tissue tumors|6|||17
+88900|Léiomyome, SAI|Sarcomas and soft tissue tumors|6|||17
+88901|Léiomyomatose, SAI|Sarcomas and soft tissue tumors|6|||17
+88903|Léiomyosarcome, SAI|Sarcomas and soft tissue tumors|6|||17
+88910|Léiomyome épithélioïde|Sarcomas and soft tissue tumors|6|||17
+88913|Léiomyosarcome épithélioïde|Sarcomas and soft tissue tumors|6|||17
+88920|Léiomyome cellulaire|Sarcomas and soft tissue tumors|6|||17
+88930|Léiomyome bizarre|Sarcomas and soft tissue tumors|6|||17
+88940|Angiomyome|Sarcomas and soft tissue tumors|6|||17
+88943|Angiomyosarcome|Sarcomas and soft tissue tumors|6|||17
+88950|Myome|Sarcomas and soft tissue tumors|6|||17
+88953|Myosarcome|Sarcomas and soft tissue tumors|6|||17
+88963|Leiomyosarcome myxoïde|Sarcomas and soft tissue tumors|6|||17
+88971|Tumeur des muscles lisses à potentiel malin incertain|Sarcomas and soft tissue tumors|6|||17
+88981|Leiomyome métastasant|Sarcomas and soft tissue tumors|6|||17
+89000|Rhabdomyome, SAI|Sarcomas and soft tissue tumors|6|||17
+89003|Rhabdomyosarcome, SAI|Sarcomas and soft tissue tumors|6|||17
+89013|Rhabdomyosarcome pléomorphe de type l’adulte|Sarcomas and soft tissue tumors|6|||17
+89023|Rhabdomyosarcome à cellularité mixte|Sarcomas and soft tissue tumors|6|||17
+89030|Rhabdomyome foetal|Sarcomas and soft tissue tumors|6|||17
+89040|Rhabdomyome adulte|Sarcomas and soft tissue tumors|6|||17
+89050|Rhabdomyome génital (C51.-, C52.9)|Sarcomas and soft tissue tumors|6|||17
+89103|Rhabdomyosarcome embryonnaire, SAI|Sarcomas and soft tissue tumors|6|||17
+89123|Rhabdomyosarcome à cellules fusiformes|Sarcomas and soft tissue tumors|6|||17
+89203|Rhabdomyosarcome alvéolaire|Sarcomas and soft tissue tumors|6|||17
+89213|Rhabdomyosarcome avec différenciation ganglionnaire|Sarcomas and soft tissue tumors|6|||17
+89300|Nodule du stroma endométrial (C54.1)|Other specified types of cancer|16|||17
+89303|Sarcome du stroma endométrial , SAI (C54.1)|Other specified types of cancer|16|||17
+89313|Sarcome du stroma endométrial de bas grade (C54.1)|Other specified types of cancer|16|||17
+89320|Adénomyome|Other specified types of cancer|16|||17
+89333|Adénosarcome|Other specified types of cancer|16|||17
+89343|Carcinofibrome|Other specified types of cancer|16|||17
+89350|Tumeur stromale bénigne|Other specified types of cancer|16|||17
+89351|Tumeur stromale, SAI|Other specified types of cancer|16|||17
+89353|Sarcome stromal, SAI|Other specified types of cancer|16|||17
+89360|Tumeur bénigne du stroma gastro-intestinal|Other specified types of cancer|16|||17
+89361|Tumeur du stroma gastro-intestinal, SAI|Other specified types of cancer|16|||17
+89363|Sarcome du stroma gastro-intestinal|Other specified types of cancer|16|||17
+89400|Adénome polymorphe|Adenocarcinomas|3|5||17
+89403|Tumeur mixte maligne, SAI|Adenocarcinomas|3|5||17
+89413|Carcinome sur adénome pléomorphe (C07.-, C08.-)|Adenocarcinomas|3|5||17
+89503|Mulleroblastome (C54.-)|Other specified types of cancer|16|||17
+89513|Tumeur mixte mésodermique|Other specified types of cancer|16|||17
+89590|Néphrome kystique bénin (C64.9)|Other specified types of cancer|16|||17
+89591|Néphroblastome kystique partiellement différencié (C64.9)|Other specified types of cancer|16|||17
+89593|Néphrome kystique malin (C64.9)|Other specified types of cancer|16|||17
+89601|Néphrome mésoblastique|Other specified types of cancer|16|||17
+89603|Néphroblastome, SAI (C64.9)|Other specified types of cancer|16|||17
+89633|Tumeur rhabdoïde maligne|Other specified types of cancer|16|||17
+89643|Sarcome à cellules claires du rein (C64.9)|Other specified types of cancer|16|||17
+89650|Adénofibrome néphrogène (C64.9)|Other specified types of cancer|16|||17
+89660|Tumeur à cellules interstitielles rénomédullaires (C64.9)|Other specified types of cancer|16|||17
+89670|Tumeur rénale ossifiante (C64.9)|Other specified types of cancer|16|||17
+89703|Hépatoblastome (C22.0)|Other specified types of cancer|16|||17
+89713|Pancréatoblastome (C25.-)|Other specified types of cancer|16|||17
+89723|Blastome pulmonaire (C34.-)|Other specified types of cancer|16|||17
+89733|Blastome pleuropulmonaire|Other specified types of cancer|16|||17
+89741|Sialoblastome|Other specified types of cancer|16|||17
+89803|Carcinosarcome, SAI Esthésio-neuroblastome (C30.0)|Other specified types of cancer|16|||17
+89813|Carcinosarcome de type embryonnaire|Other specified types of cancer|16|||17
+89820|Myoépithéliome|Other specified types of cancer|16|||17
+89823|Myoépithéliome malin|Other specified types of cancer|16|||17
+89830|Adénomyoépithéliome (C50.-)|Other specified types of cancer|16|||17
+89900|Mésenchymome bénin|Sarcomas and soft tissue tumors|6|||17
+89901|Mésenchymome, SAI|Sarcomas and soft tissue tumors|6|||17
+89903|Mésenchymome malin|Sarcomas and soft tissue tumors|6|||17
+89913|Sarcome embryonnaire|Sarcomas and soft tissue tumors|6|||17
+90000|Tumeur de Brenner, SAI (C56.9)|Other specified types of cancer|16|||17
+90001|Tumeur de Brenner à la limite de la malignité (C56.9)|Other specified types of cancer|16|||17
+90003|Tumeur de Brenner maligne (C56.9)|Other specified types of cancer|16|||17
+90100|Fibroadénome, SAI (C50.-)|Other specified types of cancer|16|||17
+90110|Fibroadénome intracanaliculaire, (C50.-)|Other specified types of cancer|16|||17
+90120|Fibroadénome péricanaliculaire (C50.-)|Other specified types of cancer|16|||17
+90130|Adénofibrome, SAI|Other specified types of cancer|16|||17
+90140|Adénofibrome séreux, SAI|Other specified types of cancer|16|||17
+90141|Adénofibrome séreux à la limite de la malignité|Other specified types of cancer|16|||17
+90143|Adénocarcinofibrome séreux|Other specified types of cancer|16|||17
+90150|Adénofibrome mucineux, SAI|Other specified types of cancer|16|||17
+90151|Adénofibrome mucineux à la limite de la malignité|Other specified types of cancer|16|||17
+90153|Adénocarcinofibrome mucineux|Other specified types of cancer|16|||17
+90160|Fibro-adénome géant (C50.-)|Other specified types of cancer|16|||17
+90200|Tumeur phyllode bénigne (C50.-)|Other specified types of cancer|16|||17
+90201|Tumeur phyllode à la limite de la malignité (C50.-)|Other specified types of cancer|16|||17
+90203|Tumeur phyllode maligne (C50.-)|Other specified types of cancer|16|||17
+90300|Fibroadénome juvénile (C50.-)|Other specified types of cancer|16|||17
+90400|Synoviome bénin|Sarcomas and soft tissue tumors|6|||17
+90403|Sarcome synovial, SAI|Sarcomas and soft tissue tumors|6|||17
+90413|Sarcome synovial à cellules fusiformes|Sarcomas and soft tissue tumors|6|||17
+90423|Sarcome synovial à cellules épithélioïdes|Sarcomas and soft tissue tumors|6|||17
+90433|Sarcome synovial biphasique|Sarcomas and soft tissue tumors|6|||17
+90443|Sarcome à cellules claires (sauf du rein, voir M-8964/3)|Sarcomas and soft tissue tumors|6|||17
+90500|Mésothéliome bénin|Mesotheliomas|7|||17
+90503|Mésothéliome malin|Mesotheliomas|7|||17
+90510|Mésothéliome fibreux bénin|Mesotheliomas|7|||17
+90513|Mésothéliome fibreux malin|Mesotheliomas|7|||17
+90520|Mésothéliome épithélioïde bénin|Mesotheliomas|7|||17
+90523|Mésothéliome épithélioïde malin|Mesotheliomas|7|||17
+90533|Mésothéliome biphasique malin|Mesotheliomas|7|||17
+90540|Tumeur adénomatoïde, SAI|Mesotheliomas|7|||17
+90550|Mésothéliome polykystique bénin|Mesotheliomas|7|||17
+90551|Mésothéliome kystique, SAI (C48.-)|Mesotheliomas|7|||17
+90603|Dysgerminome|Other specified types of cancer|16|||17
+90613|Séminome, SAI (C62.-)|Other specified types of cancer|16|||17
+90623|Séminome anaplasique (C62.-)|Other specified types of cancer|16|||17
+90633|Séminome spermatocytaire (C62.-)|Other specified types of cancer|16|||17
+90642|Cellules germinales intratubulaires malignes (C62.-)|Other specified types of cancer|16|||17
+90643|Germinome|Other specified types of cancer|16|||17
+90653|Tumeur à cellules germinales, non séminomateuse (C62.-)|Other specified types of cancer|16|||17
+90703|Carcinome embryonnaire, SAI|Other specified types of cancer|16|||17
+90713|Tumeur vitelline|Other specified types of cancer|16|||17
+90723|Polyembryome|Other specified types of cancer|16|||17
+90731|Gonadoblastome|Other specified types of cancer|16|||17
+90800|Tératome bénin|Other specified types of cancer|16|||17
+90801|Tératome, SAI|Other specified types of cancer|16|||17
+90803|Tératome malin, SAI|Other specified types of cancer|16|||17
+90813|Tératocarcinome|Other specified types of cancer|16|||17
+90823|Tératome malin indifférencié|Other specified types of cancer|16|||17
+90833|Tératome malin de type intermédiaire|Other specified types of cancer|16|||17
+90840|Kyste dermoïde, SAI|Other specified types of cancer|16|||17
+90843|Kyste dermoïde avec transformation maligne (C56.9)|Other specified types of cancer|16|||17
+90853|Tumeur mixte des cellules germinales|Other specified types of cancer|16|||17
+90900|Goitre ovarien, SAI (C56.9)|Other specified types of cancer|16|||17
+90903|Goitre ovarien cancérisé (C56.9)|Other specified types of cancer|16|||17
+90911|Carcinoïde et goitre ovarien (C56.9)|Other specified types of cancer|16|||17
+91000|Môle hydatiforme, SAI (C58.9)|Other specified types of cancer|16|||17
+91001|Môle hydatiforme invasive, SAI (C58.9)|Other specified types of cancer|16|||17
+91003|Choriocarcinome, SAI|Other specified types of cancer|16|||17
+91013|Choriocarcinome avec autres éléments à cellules germinales|Other specified types of cancer|16|||17
+91023|Tératome malin trophoblastique|Other specified types of cancer|16|||17
+91030|Môle hydatiforme partielle (C58.9)|Other specified types of cancer|16|||17
+91041|Tumeur trophoblastique du site placentaire (C58.9)|Other specified types of cancer|16|||17
+91053|Tumeur trophoblastique épithélioïde|Other specified types of cancer|16|||17
+91100|Mésonéphrome bénin|Other specified types of cancer|16|||17
+91101|Tumeur mésonéphrique, SAI|Other specified types of cancer|16|||17
+91103|Mésonéphrome malin|Other specified types of cancer|16|||17
+91200|Hémangiome, SAI|Sarcomas and soft tissue tumors|6|||17
+91203|Hémangiosarcome|Sarcomas and soft tissue tumors|6|||17
+91210|Hémangiome caverneux|Sarcomas and soft tissue tumors|6|||17
+91220|Hémangiome veineux|Sarcomas and soft tissue tumors|6|||17
+91230|Hémangiome racémeux|Sarcomas and soft tissue tumors|6|||17
+91243|Sarcome à cellules de Kupffer (C22.0)|Sarcomas and soft tissue tumors|6|||17
+91250|Hémangiome épithélioïde|Sarcomas and soft tissue tumors|6|||17
+91300|Hémangioendothéliome bénin|Sarcomas and soft tissue tumors|6|||17
+91301|Hémangioendothéliome, SAI|Sarcomas and soft tissue tumors|6|||17
+91303|Hémangioendothéliome malin|Sarcomas and soft tissue tumors|6|||17
+91310|Hémangiome capillaire|Sarcomas and soft tissue tumors|6|||17
+91320|Hémangiome intramusculaire|Sarcomas and soft tissue tumors|6|||17
+91331|Hémangioendothéliome épithélioïde, SAI|Sarcomas and soft tissue tumors|6|||17
+91333|Hémangioendothéliome épithélioïde malin|Sarcomas and soft tissue tumors|6|||17
+91351|Angioendothéliome papillaire endovasculaire|Sarcomas and soft tissue tumors|6|||17
+91361|Hémangioendothéliome à cellules fusiformes|Sarcomas and soft tissue tumors|6|||17
+91403|Sarcome de Kaposi|Kaposi sarcomas|15|||17
+91410|Angiokératome|Sarcomas and soft tissue tumors|6|||17
+91420|Hémangiome verruqueux kératosique|Sarcomas and soft tissue tumors|6|||17
+91500|Hémangiopéricytome bénin|Sarcomas and soft tissue tumors|6|||17
+91501|Hémangiopéricytome, SAI|Sarcomas and soft tissue tumors|6|||17
+91503|Hémangiopéricytome malin|Sarcomas and soft tissue tumors|6|||17
+91600|Angiofibrome, SAI|Sarcomas and soft tissue tumors|6|||17
+91610|Hémangiome pelotonné acquis|Sarcomas and soft tissue tumors|6|||17
+91611|Hémangioblastome|Sarcomas and soft tissue tumors|6|||17
+91700|Lymphangiome, SAI|Sarcomas and soft tissue tumors|6|||17
+91703|Lymphangiosarcome|Sarcomas and soft tissue tumors|6|||17
+91710|Lymphangiome capillaire|Sarcomas and soft tissue tumors|6|||17
+91720|Lymphangiome caverneux|Sarcomas and soft tissue tumors|6|||17
+91730|Lymphangiome kystique|Sarcomas and soft tissue tumors|6|||17
+91740|Lymphangiomyome|Sarcomas and soft tissue tumors|6|||17
+91741|Lymphangiomyomatose|Sarcomas and soft tissue tumors|6|||17
+91750|Hémolymphangiome|Sarcomas and soft tissue tumors|6|||17
+91800|Ostéome, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91803|Ostéosarcome, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91813|Ostéosarcome chondroblastique (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91823|Ostéosarcome fibroblastique (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91833|Ostéosarcome télangiectasique (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91843|Ostéosarcome sur maladie de Paget de l’os (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91853|Ostéosarcome à petites cellules (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91863|Ostéosarcome central (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91873|Ostéosarcome intra-osseux bien différencié (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91910|Ostéome ostéoïde, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91923|Ostéosarcome parostéal (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91933|Ostéosarcome périosté (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91943|Ostéosarcome de surface de haut grade (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+91953|Ostéosarcome intracortical (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92000|Ostéoblastome, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92001|Ostéoblastome agressif (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92100|Ostéochondrome (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92101|Ostéochondromatose, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92200|Chondrome, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92201|Chondromatose, SAI|Sarcomas and soft tissue tumors|6|||17
+92203|Chondrosarcome, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92210|Chondrome juxtacortical (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92213|Chondrosarcome juxtacortical (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92300|Chondroblastome, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92303|Chondroblastome malin (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92313|Chondrosarcome myxoïde|Sarcomas and soft tissue tumors|6|||17
+92403|Chondrosarcome mésenchymateux|Sarcomas and soft tissue tumors|6|||17
+92410|Fibrome chondromyxoïde (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92423|Chondrosarcome à cellules claires (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92433|Chondrosarcome dédifférencié (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92501|Tumeur à cellules géantes de l’os, SAI (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92503|Tumeur maligne à cellules géantes de l’os (C40.-, C41.-)|Sarcomas and soft tissue tumors|6|||17
+92511|Tumeur à cellules géantes des tissus mous, SAI|Sarcomas and soft tissue tumors|6|||17
+92513|Tumeur maligne à cellules géantes des tissus mous|Sarcomas and soft tissue tumors|6|||17
+92520|Tumeur ténosynoviale à cellules géantes (C49.-)|Sarcomas and soft tissue tumors|6|||17
+92523|Tumeur ténosynoviale maligne à cellules géantes (C49.-)|Sarcomas and soft tissue tumors|6|||17
+92603|Sarcome d’Ewing|Other specified types of cancer|16|||17
+92613|Adamantinome des os longs (C40.-)|Other specified types of cancer|16|||17
+92620|Fibrome ossifiant|Other specified types of cancer|16|||17
+92700|Tumeur odontogène bénigne|Other specified types of cancer|16|||17
+92701|Tumeur odontogène, SAI|Other specified types of cancer|16|||17
+92703|Tumeur odontogène maligne|Other specified types of cancer|16|||17
+92710|Fibrodentinome améloblastique|Other specified types of cancer|16|||17
+92720|Cémentome, SAI|Other specified types of cancer|16|||17
+92730|Cémentoblastome bénin|Other specified types of cancer|16|||17
+92740|Fibrome cémentifiant|Other specified types of cancer|16|||17
+92750|Cémentome géant|Other specified types of cancer|16|||17
+92800|Odontome, SAI|Other specified types of cancer|16|||17
+92810|Odontome composé|Other specified types of cancer|16|||17
+92820|Odontome complexe|Other specified types of cancer|16|||17
+92900|Fibro-odontome améloblastique|Other specified types of cancer|16|||17
+92903|Odontosarcome améloblastique|Other specified types of cancer|16|||17
+93000|Tumeur odontogène adénomatoïde|Other specified types of cancer|16|||17
+93010|Kyste odontogène calcifiant|Other specified types of cancer|16|||17
+93020|Tumeur odontogène à cellules fantômes|Other specified types of cancer|16|||17
+93100|Améloblastome, SAI|Other specified types of cancer|16|||17
+93103|Améloblastome malin|Other specified types of cancer|16|||17
+93110|Odontoaméloblastome|Other specified types of cancer|16|||17
+93120|Tumeur odontogène kératinisée|Other specified types of cancer|16|||17
+93200|Myxome odontogène|Other specified types of cancer|16|||17
+93210|Fibrome odontogène central, SAI|Other specified types of cancer|16|||17
+93220|Fibrome odontogène périphérique|Other specified types of cancer|16|||17
+93300|Fibrome améloblastique|Other specified types of cancer|16|||17
+93303|Fibrosarcome améloblastique|Other specified types of cancer|16|||17
+93400|Tumeur odontogène épithéliale calcifiante|Other specified types of cancer|16|||17
+93411|Tumeur odontogène à cellules claires|Other specified types of cancer|16|||17
+93423|Carcinosarcome odontogène|Other specified types of cancer|16|||17
+93501|Craniopharyngiome (C75.2)|Other specified types of cancer|16|||17
+93511|Craniopharyngiome adamantinomateux (C75.2)|Other specified types of cancer|16|||17
+93521|Craniopharyngiome papillaire (C75.2)|Other specified types of cancer|16|||17
+93601|Pinéalome (C75.3)|Other specified types of cancer|16|||17
+93611|Pinéalocytome (C75.3)|Other specified types of cancer|16|||17
+93623|Pinéaloblastome (C75.3)|Other specified types of cancer|16|||17
+93630|Tumeur mélanotique neuroectodermique|Other specified types of cancer|16|||17
+93643|Tumeur neuroectodermique périphérique|Other specified types of cancer|16|||17
+93653|Tumeur de Askin|Other specified types of cancer|16|||17
+93703|Chordome, SAI|Sarcomas and soft tissue tumors|6|||17
+93713|Chordome chondroïde|Sarcomas and soft tissue tumors|6|||17
+93723|Chordome dédifférencié|Sarcomas and soft tissue tumors|6|||17
+93730|Parachordome|Sarcomas and soft tissue tumors|6|||17
+93803|Gliome malin (C71.-)|Other specified types of cancer|16|||17
+93813|Gliomatose du cerveau (C71.-)|Other specified types of cancer|16|||17
+93823|Gliome mixte (C71.-)|Other specified types of cancer|16|||17
+93831|Subependymome (C71.-)|Other specified types of cancer|16|||17
+93841|Astrocytome sous-épendymaire à cellules géantes (C71.-)|Other specified types of cancer|16|||17
+93900|Papillome des plexus choroïdes, SAI (C71.5)|Other specified types of cancer|16|||17
+93901|Papillome atypique des plexus choroïdes (C71.5)|Other specified types of cancer|16|||17
+93903|Carcinome des plexus choroïdes (C71.5)|Other specified types of cancer|16|||17
+93913|Épendymome, SAI (C71.-)|Other specified types of cancer|16|||17
+93923|Épendymome anaplasique (C71.-)|Other specified types of cancer|16|||17
+93933|Épendymome papillaire (C71.-)|Other specified types of cancer|16|||17
+93941|Épendymome myxopapillaire (C72.0)|Other specified types of cancer|16|||17
+94003|Astrocytome, SAI (C71.-)|Other specified types of cancer|16|||17
+94013|Astrocytome anaplasique (C71.-)|Other specified types of cancer|16|||17
+94103|Astrocytome protoplasmique (C71.-)|Other specified types of cancer|16|||17
+94113|Astrocytome gémistocytique (C71.-)|Other specified types of cancer|16|||17
+94121|Astrocytome desmoplastique infantile (C71.-)|Other specified types of cancer|16|||17
+94130|Tumeur neuroépithéliale dysembryoplasique|Other specified types of cancer|16|||17
+94203|Astrocytome fibrillaire (C71.-)|Other specified types of cancer|16|||17
+94211|Astrocytome pilocytique (C71.-)|Other specified types of cancer|16|||17
+94233|Spongioblastome polaire (C71.-)|Other specified types of cancer|16|||17
+94243|Xanthoastrocytome pléomorphe (C71.-)|Other specified types of cancer|16|||17
+94303|Astroblastome (C71.-)|Other specified types of cancer|16|||17
+94403|Glioblastome, SAI (C71.-)|Other specified types of cancer|16|||17
+94413|Glioblastome à cellules géantes (C71.-)|Other specified types of cancer|16|||17
+94421|Gliofibrome (C71.-)|Other specified types of cancer|16|||17
+94423|Gliosarcome (C71.-)|Other specified types of cancer|16|||17
+94441|Gliome chordoïde (C71.-)|Other specified types of cancer|16|||17
+94503|Oligodendrogliome, SAI (C71.-)|Other specified types of cancer|16|||17
+94513|Oligodendrogliome , anaplasique (C71.-)|Other specified types of cancer|16|||17
+94603|Oligodendroblastome [obs] (C71.-)|Other specified types of cancer|16|||17
+94703|Médulloblastome, SAI (C71.6)|Other specified types of cancer|16|||17
+94713|Médulloblastome nodulaire desmoplastique (C71.6)|Other specified types of cancer|16|||17
+94723|Médullomyoblastome (C71.6)|Other specified types of cancer|16|||17
+94733|Tumeur neuroectodermique primitive, SAI|Other specified types of cancer|16|||17
+94743|Médulloblastome à grandes cellules (C71.6)|Other specified types of cancer|16|||17
+94803|Sarcome cérébelleux, SAI  (C71.6) [obs]|Other specified types of cancer|16|||17
+94900|Ganglioneurome|Other specified types of cancer|16|||17
+94903|Ganglioneuroblastome|Other specified types of cancer|16|||17
+94910|Ganglioneuromatose|Other specified types of cancer|16|||17
+94920|Gangliocytome|Other specified types of cancer|16|||17
+94930|Gangliocytome dysplasique du cervelet (maladie de J. Lhermitte et Duclos) (C71.6)|Other specified types of cancer|16|||17
+95003|Neuroblastome, SAI|Other specified types of cancer|16|||17
+95010|Médulloépithéliome bénin (C69.4)|Other specified types of cancer|16|||17
+95013|Médullo-épithéliome, SAI|Other specified types of cancer|16|||17
+95020|Médullo-épithéliome tératoïde bénin (C69.4)|Other specified types of cancer|16|||17
+95023|Médullo-épithéliome tératoïde|Other specified types of cancer|16|||17
+95033|Neuroépithéliome, SAI|Other specified types of cancer|16|||17
+95043|Spongioneuroblastome|Other specified types of cancer|16|||17
+95051|Gangliogliome, SAI|Other specified types of cancer|16|||17
+95053|Gangliogliome anaplasique|Other specified types of cancer|16|||17
+95061|Neurocytome central|Other specified types of cancer|16|||17
+95070|Tumeur des corpuscules de Pacini|Other specified types of cancer|16|||17
+95083|Tumeur rhabdoïde/tératoïde atypique (C71.-)|Other specified types of cancer|16|||17
+95100|Rétinocytome (C69.2)|Other specified types of cancer|16|||17
+95103|Rétinoblastome, SAI (C69.2)|Other specified types of cancer|16|||17
+95113|Rétinoblastome différencié (C69.2)|Other specified types of cancer|16|||17
+95123|Rétinoblastome indifférencié (C69.2)|Other specified types of cancer|16|||17
+95133|Rétinoblastome diffus (C69.2)|Other specified types of cancer|16|||17
+95141|Rétinoblastome à régression spontanée (C69.2)|Other specified types of cancer|16|||17
+95203|Tumeur neurogénique olfactive|Other specified types of cancer|16|||17
+95213|Neurocytome olfactif (C30.0)|Other specified types of cancer|16|||17
+95223|Neuroblastome olfactif (C30.0)|Other specified types of cancer|16|||17
+95233|Neuroépithéliome olfactif (C30.0)|Other specified types of cancer|16|||17
+95300|Méningiome, SAI|Other specified types of cancer|16|||17
+95301|Méningiomatose, SAI|Other specified types of cancer|16|||17
+95303|Méningiome malin|Other specified types of cancer|16|||17
+95310|Méningiome méningothélial|Other specified types of cancer|16|||17
+95320|Méningiome fibreux|Other specified types of cancer|16|||17
+95330|Méningiome psammomateux|Other specified types of cancer|16|||17
+95340|Méningiome angiomateux|Other specified types of cancer|16|||17
+95350|Méningiome hémangioblastique [obs]|Other specified types of cancer|16|||17
+95370|Méningiome transitionel|Other specified types of cancer|16|||17
+95381|Méningiome à cellules claires|Other specified types of cancer|16|||17
+95383|Méningiome papillaire|Other specified types of cancer|16|||17
+95391|Méningiome atypique|Other specified types of cancer|16|||17
+95393|Sarcomatose méningée|Other specified types of cancer|16|||17
+95400|Neurofibrome, SAI|Sarcomas and soft tissue tumors|6|||17
+95401|Neurofibromatose, SAI|Sarcomas and soft tissue tumors|6|||17
+95403|Tumeur maligne de la gaine des nerfs périphériques|Sarcomas and soft tissue tumors|6|||17
+95410|Neurofibrome mélanotique|Sarcomas and soft tissue tumors|6|||17
+95500|Neurofibrome plexiforme|Sarcomas and soft tissue tumors|6|||17
+95600|Neurilemmome, SAI|Sarcomas and soft tissue tumors|6|||17
+95601|Neurinomatose|Sarcomas and soft tissue tumors|6|||17
+95603|Neurilemmome malin [obs]|Sarcomas and soft tissue tumors|6|||17
+95613|Tumeur maligne de la gaine des nerfs périphériques avec différenciation rhabdomyoblastique|Sarcomas and soft tissue tumors|6|||17
+95620|Neurothécome|Sarcomas and soft tissue tumors|6|||17
+95700|Névrome, SAI|Sarcomas and soft tissue tumors|6|||17
+95710|Périneurome, SAI|Sarcomas and soft tissue tumors|6|||17
+95713|Périneurome malin|Sarcomas and soft tissue tumors|6|||17
+95800|Tumeur à cellules granuleuses, SAI|Sarcomas and soft tissue tumors|6|||17
+95803|Tumeur maligne à cellules granuleuses|Sarcomas and soft tissue tumors|6|||17
+95813|Sarcome alvéolaire des tissus mous|Sarcomas and soft tissue tumors|6|||17
+95820|Tumeur à cellules granuleuses de la région sellaire (C75.1)|Sarcomas and soft tissue tumors|6|||17
+95903|Lymphome malin, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+95913|Lymphome malin non-hodgkinien, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+95963|Lymphome à composante hodgkinienne et non-hodgkinienne|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+96503|Lymphome de Hodgkin, SAI|Hodgkin lymphomas|11||14|17
+96513|Lymphome de Hodgkin riche en lymphocytes|Hodgkin lymphomas|11||14|17
+96523|Lymphome de Hodgkin, à cellularité mixte, SAI|Hodgkin lymphomas|11||14|17
+96533|Lymphome de Hodgkin, à déplétion lymphoïde, SAI|Hodgkin lymphomas|11||14|17
+96543|Lymphome de Hodgkin, à déplétion lymphoïde, type fibrose diffuse|Hodgkin lymphomas|11||14|17
+96553|Lymphome de Hodgkin, à déplétion lymphoïde, type réticulaire|Hodgkin lymphomas|11||14|17
+96593|Lymphome de Hodgkin à prédominance lymphocytaire, forme nodulaire|Hodgkin lymphomas|11||14|17
+96613|Granulome hodgkinien [obs]|Hodgkin lymphomas|11||14|17
+96623|Sarcome hodgkinien [obs]|Hodgkin lymphomas|11||14|17
+96633|Lymphome de Hodgkin, sclérose nodulaire, SAI|Hodgkin lymphomas|11||14|17
+96643|Lymphome de Hodgkin, sclérose nodulaire, phase cellulaire|Hodgkin lymphomas|11||14|17
+96653|Lymphome de Hodgkin, sclérose nodulaire, grade 1|Hodgkin lymphomas|11||14|17
+96673|Lymphome de Hodgkin, sclérose nodulaire, grade 2|Hodgkin lymphomas|11||14|17
+96703|Lymphome malin à petits lymphocytes B, SAI (voir aussi M-9823/3)|B-cell neoplasms|9||14|17
+96713|Lymphome malin lymphoplasmocytoïde (voir aussi M-9761/3)|B-cell neoplasms|9||14|17
+96733|Lymphome à cellules du manteau|B-cell neoplasms|9||14|17
+96753|Lymphome malin diffus mixte à petites et grandes cellules [obs] (voir aussi M-9690/3)|B-cell neoplasms|9||14|17
+96783|Lymphome malin à épanchement primaire|B-cell neoplasms|9||14|17
+96793|Lymphome médiastinal à grandes cellules B (C38.3)|B-cell neoplasms|9||14|17
+96803|Lymphome malin diffus à grandes cellules B, SAI|B-cell neoplasms|9||14|17
+96843|Lymphome malin immunoblastique diffus à grandes cellules B, SAI|B-cell neoplasms|9||14|17
+96873|Lymphome de Burkitt, SAI (voir aussi M-9826/3)|B-cell neoplasms|9||14|17
+96893|Lymphome à cellules B de la zone marginale splénique (C42.2)|B-cell neoplasms|9||14|17
+96903|Lymphome folliculaire, SAI (voir aussi M-9675/3)|B-cell neoplasms|9||14|17
+96913|Lymphome folliculaire, grade 2|B-cell neoplasms|9||14|17
+96953|Lymphome folliculaire, grade 1|B-cell neoplasms|9||14|17
+96983|Lymphome folliculaire, grade 3|B-cell neoplasms|9||14|17
+96993|Lymphome de la zone marginale à cellules B, SAI|B-cell neoplasms|9||14|17
+97003|Mycosis fongoïde (C44.-)|T-cell and NK-cell neoplasms|10||14|17
+97013|Maladie de Sézary|T-cell and NK-cell neoplasms|10||14|17
+97023|Lymphome à cellules T matures, SAI|T-cell and NK-cell neoplasms|10||14|17
+97053|Lymphome angioimmunoblastique à cellules T|T-cell and NK-cell neoplasms|10||14|17
+97083|Lymphome à cellules T simulant une panniculite|T-cell and NK-cell neoplasms|10||14|17
+97093|Lymphome cutané à cellules T, SAI (C44.-)|T-cell and NK-cell neoplasms|10||14|17
+97143|Lymphome anaplasique à grandes cellules, à cellules T et cellules nulles|T-cell and NK-cell neoplasms|10||14|17
+97163|Lymphome hépatosplénique à cellule ? d (gamma-delta)|T-cell and NK-cell neoplasms|10||14|17
+97173|Lymphome intestinal à cellules T|T-cell and NK-cell neoplasms|10||14|17
+97183|Syndrome lymphoprolifératif cutané primitif à cellules T CD30+|T-cell and NK-cell neoplasms|10||14|17
+97193|Lymphome à cellules T/NK, type nasal|T-cell and NK-cell neoplasms|10||14|17
+97273|Lymphome lymphoblastique à cellules précurseurs, SAI (voir aussi M-9835/3)|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+97283|Lymphome lymphoblastique à cellules précurseurs B (voir aussi M-9836/3)|B-cell neoplasms|9||14|17
+97293|Lymphome lymphoblastique à cellules précurseurs T (voir aussi M-9837/3)|T-cell and NK-cell neoplasms|10||14|17
+97313|Plasmocytome, SAI|B-cell neoplasms|9||14|17
+97323|Myélome multiple (C42.1)|B-cell neoplasms|9||14|17
+97333|Leucémie à plasmocytes (C42.1)|B-cell neoplasms|9||14|17
+97343|Plasmocytome extramédullaire (ne survenant pas dans l’os)|B-cell neoplasms|9||14|17
+97401|Mastocytome, SAI|Mast-cell tumours|12||14|17
+97403|Sarcome à mastocytes|Mast-cell tumours|12||14|17
+97413|Mastocytose maligne|Mast-cell tumours|12||14|17
+97423|Leucémie à mastocytes (C42.1)|Mast-cell tumours|12||14|17
+97503|Histiocytose maligne|Histiocytes and accessory lymphoid cells|13||14|17
+97511|Histiocytose à cellules de Langerhans, SAI|Histiocytes and accessory lymphoid cells|13||14|17
+97521|Histiocytose à cellules de Langerhans, unifocale|Histiocytes and accessory lymphoid cells|13||14|17
+97531|Histiocytose à cellules de Langerhans, multifocale|Histiocytes and accessory lymphoid cells|13||14|17
+97543|Histiocytose à cellules de Langerhans, disséminée|Histiocytes and accessory lymphoid cells|13||14|17
+97553|Sarcome histiocytaire|Histiocytes and accessory lymphoid cells|13||14|17
+97563|Sarcome à cellules de Langerhans|Histiocytes and accessory lymphoid cells|13||14|17
+97573|Sarcome à cellules dendritiques interdigitées|Histiocytes and accessory lymphoid cells|13||14|17
+97583|Sarcome folliculaire à cellules dendritiques|Histiocytes and accessory lymphoid cells|13||14|17
+97603|Maladie immunoproliférative, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+97613|Macroglobulinémie de Waldenström (C42.0) (voir aussi M-9671/3)|B-cell neoplasms|9||14|17
+97623|Maladie des chaînes lourdes, SAI|B-cell neoplasms|9||14|17
+97643|Maladie immunoproliférative de l’intestin grêle (C17.-)|B-cell neoplasms|9||14|17
+97651|Gammapathie monoclonale de signification indéterminée|B-cell neoplasms|9||14|17
+97661|Lésion immunoproliférative angiocentrique|B-cell neoplasms|9||14|17
+97671|Lymphadénopathie angioimmunoblastique|B-cell neoplasms|9||14|17
+97681|Maladie lymphoproliférative gamma-T|T-cell and NK-cell neoplasms|10||14|17
+97691|Maladie à dépôts d’immunoglobulines|B-cell neoplasms|9||14|17
+98003|Leucémie, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98013|Leucémie aiguë, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98053|Leucémie biphénotypique aiguë|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98203|Leucémie lymphoïde, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98233|Leucémie lymphoïde chronique à cellules B/lymphome à petits lymphocytes (voir aussi M-9670/3)|B-cell neoplasms|9||14|17
+98263|Leucémie à cellules de Burkitt (voir aussi M-9687/3)|B-cell neoplasms|9||14|17
+98273|Leucémie/lymphome à cellules T, type adulte (HTLV-1 positif) incluant toutes les variétés|T-cell and NK-cell neoplasms|10||14|17
+98311|Leucémie lymphoïde à grandes cellules T granuleuses|T-cell and NK-cell neoplasms|10||14|17
+98323|Leucémie prolymphocytaire, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98333|Leucémie prolymphocytaire à cellules B|B-cell neoplasms|9||14|17
+98343|Leucémie prolymphocytaire à cellules T|T-cell and NK-cell neoplasms|10||14|17
+98353|Leucémie lymphoblastique à cellules précurseurs, SAI (voir aussi M-9727/3)|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98363|Leucémie lymphoblastique à cellules précurseurs B (voir aussi M-9728/3)|B-cell neoplasms|9||14|17
+98373|Leucémie lymphoblastique à cellules précurseurs T (voir aussi M-9729/3)|T-cell and NK-cell neoplasms|10||14|17
+98403|Leucémie myéloïde aiguë, type M6|Myeloid|8||14|17
+98603|Leucémie myéloïde, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+98613|Leucémie aiguë myéloïde, SAI (type FAB ou OMS  non précisé) (voir aussi M-9930/3)|Myeloid|8||14|17
+98633|Leucémie myéloïde chronique, SAI|Myeloid|8||14|17
+98663|Leucémie promyélocytaire aiguë, t(15;17)(q22;q11-12)|Myeloid|8||14|17
+98673|Leucémie aiguë myélomonocytaire|Myeloid|8||14|17
+98703|Leucémie aiguë à basophiles|Myeloid|8||14|17
+98713|Leucémie myéloïde aiguë avec éosinophiles médullaires anormaux|Myeloid|8||14|17
+98723|Leucémie aiguë myéloïde, à différenciation minimale|Myeloid|8||14|17
+98733|Leucémie aiguë myéloïde sans maturation|Myeloid|8||14|17
+98743|Leucémie aiguë myéloïde avec maturation|Myeloid|8||14|17
+98753|Leucémie myélogène chronique, ABL-BCR positif|Myeloid|8||14|17
+98763|Leucémie myéloïde chronique atypique, ABL-BCR négatif|Myeloid|8||14|17
+98913|Leucémie aiguë monocytaire|Myeloid|8||14|17
+98953|Leucémie myéloïde aiguë avec dysplasie de plusieurs lignées cellulaires|Myeloid|8||14|17
+98963|Leucémie myéloïde aiguë, t(8;21)(q22;q22)|Myeloid|8||14|17
+98973|Leucémie myéloïde aiguë, anomalies 11q23|Myeloid|8||14|17
+99103|Leucémie mégacaryoblastique aiguë|Myeloid|8||14|17
+99203|Leucémie myéloïde aiguë secondaire à une thérapie, SAI|Myeloid|8||14|17
+99303|Sarcome myéloïde (voir aussi M-9861/3)|Myeloid|8||14|17
+99313|Panmyélose aiguë avec myélofibrose (C42.1)|Myeloid|8||14|17
+99403|Leucémie à tricholeucocytes (C42.1)|B-cell neoplasms|9||14|17
+99453|Leucémie chronique myélomonocytaire, SAI|Myeloid|8||14|17
+99463|Leucémie myélomonocytaire juvénile|Myeloid|8||14|17
+99483|Leucémie agressive à cellules NK|T-cell and NK-cell neoplasms|10||14|17
+99503|Polycythémie vraie|Myeloid|8||14|17
+99603|Maladie myéloproliférative chronique, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+99613|Myélosclérose avec métaplasie myéloïde|Myeloid|8||14|17
+99623|Thrombocythémie essentielle|Myeloid|8||14|17
+99633|Leucémie chronique à polynucléaires neutrophiles|Myeloid|8||14|17
+99643|Syndrome hyperéosinophilique|Myeloid|8||14|17
+99701|Syndrome lymphoprolifératif, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+99751|Maladie myéloproliférative, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
+99803|Anémie réfractaire|Myeloid|8||14|17
+99823|Anémie réfractaire avec sidéroblastes|Myeloid|8||14|17
+99833|Anémie réfractaire avec excès de blastes|Myeloid|8||14|17
+99843|Anémie réfractaire avec excès de blastes en transformation [obs]|Myeloid|8||14|17
+99853|Anémie réfractaire avec dysplasie de plusieurs lignées cellulaires|Myeloid|8||14|17
+99863|Syndrome myélodysplasique avec syndrome de délétion du bras court du chromosome 5 (5q-)|Myeloid|8||14|17
+99873|Syndrome myélodysplasique secondaire à une thérapie, SAI|Myeloid|8||14|17
+99893|Syndrome myélodysplasique, SAI|Unspecified types of haematopoietic and lymphoid tissues|14||14|17
