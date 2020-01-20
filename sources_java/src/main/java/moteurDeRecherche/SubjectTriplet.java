@@ -17,6 +17,6 @@ public class SubjectTriplet extends Subject {
 
 	@Override
 	public String toString() {
-		return super.toString()+" _ "+predicat.getValeur()+" _ "+objet.getValeur();
+		return super.toString()+" _зг_ "+predicat.getValeur()+" _зг_ "+objet.getValeur()+" _зг_ ";
 	}
 }

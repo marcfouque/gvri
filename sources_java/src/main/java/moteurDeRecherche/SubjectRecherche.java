@@ -17,6 +17,6 @@ public class SubjectRecherche extends Subject {
 	
 	@Override
 	public String toString() {
-		return super.toString()+"\nscore : "+scoreNb+", literal : "+literal;
+		return super.toString()+"\n"+literal+"\nscore : "+scoreNb;
 	}
 }

@@ -1,15 +1,20 @@
 PREFIX gvri: <https://inf203.isped.fr/gvri#> 
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#>
+
  
 CONSTRUCT {
 	?URI a gvri:CUI_UMLS;
 	gvri:aPourTopoCimo3 ?topo;
 	gvri:aPourMorphoCimo3 ?morpho;
+	rdfs:label ?strfr;
   }
   FROM <file:../../corpus/cimo3_cui_UMLS.txt>
   WHERE {
 	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#umls_", ?CUI_UMLS)) AS ?URI)
 	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#topoCimo_",?CODTOPOCIMO3)) AS ?topo)
 	 BIND (URI(CONCAT("https://inf203.isped.fr/gvri/instances#morphoCimo_",?CODMORPHOCIMO3)) AS ?morpho)
+	 BIND (STRLANG(?LIBMORPHOCIMO3,"fr") AS ?strfr)
+
   }
   

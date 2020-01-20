@@ -1,16 +1,9 @@
-######## Example of a TDB dataset and text index#########################
-# The main doc sources are:
-#  - https://jena.apache.org/documentation/fuseki2/fuseki-configuration.html
-#  - https://jena.apache.org/documentation/assembler/assembler-howto.html
-#  - https://jena.apache.org/documentation/assembler/assembler.ttl
-# See https://jena.apache.org/documentation/fuseki2/fuseki-layout.html for the destination of this file.
-#########################################################################
-
 @prefix :        <https://inf203.isped.fr#> .
 @prefix gvri:    <https://inf203.isped.fr/gvri#> .
 @prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix tdb:     <http://jena.hpl.hp.com/2008/tdb#> .
+@prefix tdb2:    <http://jena.apache.org/2016/tdb#> .
 @prefix text:    <http://jena.apache.org/text#> .
 @prefix skos:    <http://www.w3.org/2004/02/skos/core#>
 @prefix fuseki:  <http://jena.apache.org/fuseki#> .
@@ -39,26 +32,35 @@
     text:index     <#indexLucene> .
 
 # A TDB dataset used for RDF storage
-<#dataset> rdf:type      tdb:DatasetTDB ; # <-- replace `:my_dataset` with the desired URI - as above
-    tdb:location "D:/marco/Jena/fuseki/apache-jena-fuseki-3.13.1/run/databases/gvri" ;
-    tdb:unionDefaultGraph true . # Optional .
+<#dataset> rdf:type      tdb2:DatasetTDB ; # <-- replace `:my_dataset` with the desired URI - as above
+    tdb2:location "D:/ISPED/m2ProjetGayo/jena/tdb/tdb_gvri" ;
+    tdb2:unionDefaultGraph true . # Optional .
 
 #gvri:graph rdf:type tdb:GraphTDB ;
-#    tdb:dataset <#dataset> ;
-#    tdb:graphName gvri: ;
-#    ja:content [ja:externalContent <file:///E:/javaNew/projetRI/src/main/resources/base/gvri.ttl>;] .
+#    tdb2:dataset <#dataset> ;
+#    tdb2:graphName gvri: ;
+#    ja:content [ja:externalContent <file:///D:/ISPED/m2ProjetGayo/tarql/gvri.ttl>;] .
 
 # Text index description
 <#indexLucene> a text:TextIndexLucene ;
-    text:directory <file:///E:/assembleurIndexeur> ;  # <-- replace `<file:path>` with your path (e.g., `<file:/.../fuseki/run/databases/MY_INDEX>`)
+    text:directory <file:///D:/ISPED/m2ProjetGayo/sources_java/src/main/resources/base/index> ; 
     text:entityMap <#entMap> ;
     text:storeValues true ; 
-    text:analyzer [ a text:StandardAnalyzer ] ;
-    #text:queryAnalyzer [ a text:KeywordAnalyzer ] ;
-    #text:queryParser text:AnalyzingQueryParser ;
-    #text:propLists ( [ . . . ] . . . ) ;
-    #text:defineAnalyzers ( [ . . . ] . . . ) ;
-    text:multilingualSupport true ; # optional
+    text:analyzer [ 
+		a text:StandardAnalyzer ;
+        text:language "fr"
+		] ;
+    text:propLists ( 
+		[ 
+			text:propListProp gvri:recherche ;
+			text:props ( 
+				rdfs:label 
+				gvri:Prenom 
+				gvri:Nom 
+				gvri:DateNaissance 
+			) ;
+		]) ;
+    text:multilingualSupport true ; 
 .
 # Entity map (see documentation for other options)
 <#entMap> a text:EntityMap ;
@@ -69,5 +71,22 @@
     text:graphField       "graph" ;
     text:map (
         [ text:field "label" ; 
-          text:predicate rdfs:label  ]
+          text:predicate rdfs:label #;
+		#  text:analyzer [
+		#	a text:FrenchAnalyzer ;
+		#	text:filters (text:ISOLatin1AccentFilter)
+		#	]
+		]
+		[ text:field "Nom" ; 
+          text:predicate gvri:Nom  ]
+		[ text:field "Prenom" ; 
+          text:predicate gvri:Prenom  ]
+		[ text:field "DateNaissance" ; 
+          text:predicate gvri:DateNaissance ;
+		  text:analyzer [
+			a text:ConfigurableAnalyzer ;
+			text:tokenizer text:LetterTokenizer ;
+			text:filters (text:LowerCaseFilter)
+			]
+		]
     ) .

@@ -3,6 +3,7 @@ package GVRI;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.Set;
 import java.util.regex.*;
 
 import org.apache.jena.query.QuerySolution;
@@ -21,9 +22,9 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
 import javafx.scene.control.SelectionMode;
-import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 //import javafx.scene.control.TextFlow;
+import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 
 //import com.gluonhq.charm-glisten.control.CharmListView; 
@@ -37,6 +38,9 @@ public class GVRI extends Application{
 	private MoteurDeRecherche mdr ;
 	private HashMap<String,Pattern> motifs;
 	private HashMap<String,String> corresp;
+	
+	
+    
 	//private ArrayList<Pattern> motifs;
 	/*
 	Variables de javaFX permettant  un lien entre le controleur  et la  vue
@@ -52,7 +56,7 @@ public class GVRI extends Application{
 	@FXML
 	private ListView listeRegexMatch;
 	@FXML
-	private TextArea zoneInfo;
+	private WebView zoneInfo;
 	
 	
 	public void start(Stage primaryStage) {
@@ -89,7 +93,8 @@ public class GVRI extends Application{
                 System.out.println("selection element");
                 
             	//zoneInfo.setText(newValue.toString());
-            	zoneInfo.setText(mdr.rechercheToTriplets((SubjectRecherche)newValue));
+                zoneInfo.getEngine().loadContent(toHTML(mdr.rechercheToTriplets((SubjectRecherche)newValue)));
+            	//zoneInfo.setText(mdr.rechercheToTriplets((SubjectRecherche)newValue));
             	listeRegexMatch.getSelectionModel().clearSelection();;
             }
         });
@@ -105,7 +110,8 @@ public class GVRI extends Application{
               
             	//zoneInfo.setText(newValue.toString());
                 String temp = newValue.split(" : ")[1];
-                zoneInfo.setText(mdr.rechercheToTriplets(newValue.split(" : ")[1],corresp.get(newValue.split(" : ")[0]),newValue.split(" : ")[0]));
+                zoneInfo.getEngine().loadContent(toHTML(mdr.rechercheToTriplets(newValue.split(" : ")[1],corresp.get(newValue.split(" : ")[0]),newValue.split(" : ")[0])));
+                //zoneInfo.setText(mdr.rechercheToTriplets(newValue.split(" : ")[1],corresp.get(newValue.split(" : ")[0]),newValue.split(" : ")[0]));
             	//zoneInfo.setText(mdr.rechercheToTriplets((SubjectRecherche)newValue));
             	listeElements.getSelectionModel().clearSelection();;
             }
@@ -117,13 +123,33 @@ public class GVRI extends Application{
 	@FXML
 	private void rechercher() {
 		System.out.println("lancement recherche");
-		String req = "Select ?s ?score ?literal ?label ?type "
+		/*
+		String req = "Select distinct ?s ?score ?literal "
 				+ "where {"
-						+ "(?s ?score ?literal) text:query (rdfs:label \"з\")."
-						//+ "?s ?p ?o."
+						+ "(?s ?score ?literal) text:query (gvri:recherche \"з\")."
+						+ "OPTIONAL { ?s ?p ((?ps?score ?literal) text:query (gvri:recherche \"з\")) } ."
+						//+ "union"
+						//+ "{"
+						//+ "bind(?score1+?score2 AS ?score)"
+						//+ "bind(concat(?score1,?score2) AS ?score)"
+						//+ "}"
+						//+ "bind(?score1+?score2+?score0 AS ?score)"
+						//+ "bind(concat(?literal,?literal2) AS ?literal)"
 						//+ "?s rdfs:label ?label."
 						//+ "?s rdf:type ?type"
-				+ "} limit 30";
+				+ "} ORDER BY DESC(?score) ";
+		*/
+		
+		String req = "Select distinct ?s ?score ?literal "
+				+ "where {"
+						//+ "(?s ?score ?literal) text:query (rdfs:label \"з\")."
+						+ "(?s ?score ?literal) text:query (gvri:recherche \"з\")."
+						//+ "(?s ?score2) text:query (gvri:recherche \"з~\")."
+						//+ "(?s ?score2 ?literal2) text:query (rdfs:label \"з~\")"
+						//+ "bind(?score1+?score2 AS ?score)"
+						//+ "bind(concat(concat(concat(?literal1,str(?score1)),\"_\"),str(?score2)) AS ?literal)"
+				+ "} ";
+		
 		/*
 		req="SELECT ?s\r\n" + 
 				"{ ?s text:query (rdfs:label 'з' 10) ; \r\n" + 
@@ -204,7 +230,62 @@ public class GVRI extends Application{
 		//Matcher m =  
 	}
 	
-	
+	private String toHTML(String s) {
+		//String res = s;
+		String res = "";
+		System.out.println("Marcopolo\n\n");
+		System.out.println(s);
+		String[] arrS = s.split(" _зг_ ");
+		HashMap<String,ArrayList<String>> dico=new HashMap<String,ArrayList<String>>();
+
+		System.out.println(arrS[0]);
+		res+="<html><body>";
+		res+="<h1>"+arrS[0]+"</h1>";
+		//res=res.replaceAll(arrS[0], "<b>"+arrS[0]+"</b>");
+		//arrS = s.split(arrS[0]);
+		
+		for(int i=0;i<arrS.length-3;i=i+3) {
+			//res+=arrS[i]+"MARCO";
+			//String[] tempS = arrS[i].split(" _зг_ ");
+			System.out.println(dico.toString());
+			if(dico.containsKey(arrS[i+1])) {
+				ArrayList<String> als = dico.get(arrS[i+1]);
+				if(arrS[i+2].trim().equals(arrS[0].trim())) {
+					System.out.println(arrS[i+2].trim());
+					als.add(arrS[i]);
+					}
+				else als.add(arrS[i+2]);
+				dico.put(arrS[i+1],als);
+			}
+			else {
+				ArrayList<String> als = new ArrayList<String>();
+				if(arrS[i+2].trim().equals(arrS[0].trim())) {
+					System.out.println(arrS[i+2].trim());
+					als.add(arrS[i]);
+					}
+				else als.add(arrS[i+2]);
+				dico.put(arrS[1+i],als);
+			}
+			//dico.put(arrS[i].split(" _зг_ ")[1], arrS[i].split(" _зг_ ")[2]);
+			//for
+		}
+		res+="<ul>";
+		
+		Iterator<String> clefsDico = dico.keySet().iterator();
+		while(clefsDico.hasNext()) {
+			String cd = clefsDico.next();
+			res+="<li><h3>"+cd+" :</h3><ul>";
+			for(String v:dico.get(cd)) {
+				res+="<li>"+v+"</li>";
+			}
+			res+="</ul></li>";
+		}
+		res+="</ul>";
+		//res="<html>"+res+"</html>";
+		res+="</body></html>";
+		System.out.println(res);
+		return res;
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("Lancement GVRI");

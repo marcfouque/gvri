@@ -10,11 +10,13 @@ import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QueryExecutionFactory;
 import org.apache.jena.query.QueryFactory;
 import org.apache.jena.query.QuerySolution;
+import org.apache.jena.query.ReadWrite;
 import org.apache.jena.query.ResultSet;
 import org.apache.jena.query.Syntax;
 import org.apache.jena.query.text.TextDatasetFactory;
 import org.apache.jena.query.text.TextIndexConfig;
 import org.apache.jena.query.text.TextIndexLucene;
+import org.apache.jena.query.text.assembler.TextDatasetAssembler;
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.RDFNode;
@@ -29,6 +31,7 @@ public class MoteurDeRecherche {
 	public MoteurDeRecherche() {
 		System.out.println("initialisation textdataset");
 		d=TextDatasetFactory.create("./src/main/resources/base/assembleur.ttl");
+		d.begin(ReadWrite.READ) ;
 		System.out.println("#######");
 		System.out.println(d.getContext());
 		System.out.println("#######");
@@ -85,10 +88,14 @@ public class MoteurDeRecherche {
 		System.out.println(prefix+replacePrefix(req));
 		Query q = QueryFactory.create(prefix+replacePrefix(req)) ;
 		ArrayList<Subject> resultat = new ArrayList<Subject>();
+		
 		try (QueryExecution qexec = QueryExecutionFactory.create(q, d.getDefaultModel())) {
+			System.out.println(qexec.toString());
 			ResultSet res = qexec.execSelect() ;
+
 		    for ( ; res.hasNext() ; )
 		    {
+				System.out.println("#####marco###");
 		      QuerySolution sol = res.nextSolution() ;
 		      System.out.println(sol);
 		      resultat.add(new SubjectTriplet(sol.get("s").toString(),sol.get("p").toString(),sol.get("o").toString()));
